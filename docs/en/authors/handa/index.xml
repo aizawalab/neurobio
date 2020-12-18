@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/en/authors/handa/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/authors/handa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/en/authors/handa/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/en/authors/handa/index.xml" rel="self" type="application/rss+xml" />
     <description>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/en/authors/handa/avatar_huce19803b7f1ae10ce4fb27a61b7d6dd5_530932_270x270_fill_lanczos_center_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/en/authors/handa/avatar_huce19803b7f1ae10ce4fb27a61b7d6dd5_530932_270x270_fill_lanczos_center_2.png</url>
       <title>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/authors/handa/</link>
+      <link>https://aizawalab.github.io/neurobio/en/authors/handa/</link>
     </image>
     
   </channel>

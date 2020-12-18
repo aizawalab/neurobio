@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/en/authors/admin/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/en/authors/admin/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Wed, 28 Oct 2020 08:51:31 +0900</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/en/authors/admin/avatar_hu6819fa9bf717de0b090c814c14c4b879_1369622_270x270_fill_q90_lanczos_center.JPG</url>
+      <url>https://aizawalab.github.io/neurobio/en/authors/admin/avatar_hu6819fa9bf717de0b090c814c14c4b879_1369622_270x270_fill_q90_lanczos_center.JPG</url>
       <title>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/authors/admin/</link>
+      <link>https://aizawalab.github.io/neurobio/en/authors/admin/</link>
     </image>
     
     <item>
       <title>New study on a novel microscope for 3D visualization of the brain structure with deep ultraviolet light</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20201029/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20201029/</link>
       <pubDate>Wed, 28 Oct 2020 08:51:31 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20201029/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20201029/</guid>
       <description>&lt;p&gt;Deciphering the connectivity between brain regions is critical in understanding how the brain works. Three dimensional visualization of such networks of the neurons has been hampered by poor penetration of visible light into the large brain tissue.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;duv.png&#34; alt=&#34;Deep UV light&#34;&gt;&lt;/p&gt;
 &lt;p&gt;To address this, our group combined the serial sectioning of the tissue block to expose new surface of the brain with scanning by light. Collected image would be used for three dimensional reconstruction of the brain structure later in the offiline analysis.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Sepsis Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/sepsis-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</link>
       <pubDate>Thu, 24 Sep 2020 15:31:48 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/sepsis-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</guid>
       <description>&lt;p&gt;Sepsis is a life-threatening dysfunction of multiple organs caused by a dysregulated host response to infection. Notably, sepsis-associated encephalopathy (SAE) is a diffuse brain dysfunction associated with sepsis. As SAE develops a wide variety of disorders in neural functions, ranging from delirium to long-term cognitive impairment, molecular mechanism underlying it remains elusive.&lt;/p&gt;
 &lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
 &lt;p&gt;We begin to understand a role of microglia in SAE by examining the function of mitochondrial protein, translocator protein 18 kDa (TSPO). As it is upregulated in immune cells such as microglia, it has attracted a surge of interest as a biomarker of the inflammatory response in the CNS. Indeed, microglial activity seems to be under the regulation of TSPO, at least in part.&lt;/p&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>Psychiatric sequelae of intensive care: a role of neuroinflammation</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200926/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200926/</link>
       <pubDate>Thu, 24 Sep 2020 13:16:46 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200926/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200926/</guid>
       <description>&lt;p&gt;Physical stress such as infection and trauma, often causes a variety of outcome. COVID-19 outbreak in 2020 would likely result in an increase in intensive care survivors who would frequently develop anxiety, depression and PTSD as a part of post intensive care syndrome (PICS). Survival rates for critically ill patients are increasing as medical science advances, but with it PICS in survivors is becoming a major medical problem.&lt;/p&gt;
 &lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
 &lt;p&gt;As a collaborative study with Department of Emergency and Critical Care Medicine in Hiroshima University, We have just published a review paper which discusses recent advances in the studies on the role of translocator protein 18 kDa (TSPO) in microglial activation and in stressor-related disorders associated with anxiety and depression.&lt;/p&gt;
@@ -69,9 +69,9 @@
     
     <item>
       <title>New publication on a novel gene causing depressive-like behaviors</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200918/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200918/</link>
       <pubDate>Fri, 18 Sep 2020 16:53:13 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200918/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200918/</guid>
       <description>&lt;p&gt;We have just published a paper which identified a novel gene Pcsk5 acting on immune reaction in the mouse brain. Chronic stress activated this gene, which led to the subsequent activation of the other genes MMPs causing remodeling of the extracellular matrix. Since immune cell such as monocyte and microglia started to be activated and move more actively upon remodeling of extracellular matrix, Neurons seems to produce Pcsk5 seems to induce neuroinflammation in response to the chronic stress.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.nature.com/articles/s41386-020-00843-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Neuropsychopharmacology&lt;/a&gt;&lt;/p&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>New publication on dopamine transmission in stress-coping behavior</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200829/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200829/</link>
       <pubDate>Fri, 28 Aug 2020 17:47:48 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200829/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200829/</guid>
       <description>&lt;p&gt;We recently published a paper on a role of neurotransmitter dopamine in stress-coping behavior in Journal of Neuroscience.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.jneurosci.org/content/early/2020/08/26/JNEUROSCI.0444-20.2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Journal of Neurosience&lt;/a&gt;&lt;/p&gt;
@@ -109,9 +109,9 @@
     
     <item>
       <title>New publication on spreading depression implicated in migraine and stroke</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200626/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200626/</link>
       <pubDate>Fri, 26 Jun 2020 12:40:12 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200626/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200626/</guid>
       <description>&lt;p&gt;Our group published a paper in the journal GLIA on a role of glutamate in spreading depression, a pre-clinical model for the aura preceding the migraine.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/glia.23874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in GLIA&lt;/a&gt;&lt;/p&gt;
@@ -130,24 +130,24 @@
     
     <item>
       <title>International collaboration</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200613/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200613/</link>
       <pubDate>Sat, 13 Jun 2020 06:04:31 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200613/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200613/</guid>
       <description>&lt;p&gt;We welcome the international students and collaboration to facilitate our progress in neuroscience. With the international background in Hiroshima, our lab encourages the students and researcher to develop their careers by scholarship and grants. Indeed, our lab members from a variety of countries all over the world weekly hold the meeting for the progress report and journal club. We also discuss the textbook to help the international students to understand the basics in neuroscience, optics and data science periodically.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;member.png&#34; alt=&#34;Lab members from the countries all over the world&#34;&gt;&lt;/p&gt;
 &lt;p&gt;On the other hand, our research is enpowered by collaborations with researcher all over the world. For example, we have invited the researcher from US, UK and China to discuss and perform experiments together to develop new technologies in neuroscience.&lt;/p&gt;
 &lt;p&gt;As an international and research university, Hiroshima university helps the students and researcher who do not speak Japanese to learn Japanese and Japanese culture through specific classes and socials (international luncheon parties).&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://neurobio.hiroshima-u.ac.jp/en/#contact&#34;&gt;Contact us&lt;/a&gt; if you are interested in joining us!&lt;/p&gt;
+&lt;a href=&#34;https://aizawalab.github.io/neurobio/en/#contact&#34;&gt;Contact us&lt;/a&gt; if you are interested in joining us!&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Scholarship supporting the graduate course in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200601/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200601/</link>
       <pubDate>Mon, 01 Jun 2020 22:18:03 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200601/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200601/</guid>
       <description>&lt;p&gt;Our lab currently work with six graduate students in total. Scholarship and support by the university primarily allow them to concentrate on their own project for the theses. We were pleased to see the students win the scholarship based on their achievement to develop the carreer in this field.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -155,9 +155,9 @@
     
     <item>
       <title>New publication on a role of human habenula in learning</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200512/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200512/</link>
       <pubDate>Tue, 12 May 2020 16:22:34 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200512/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200512/</guid>
       <description>&lt;p&gt;Habenula is an evolutionarily conserved structure in the brain and regulates the central monoaminergic metabolism. Despite a surge of interest on the habenula in neuroscience, function of the human habenula remains unclear. Dr. Yoshino led the project members including our lab performed functional magnetic resonance imaging (fMRI) analysis during a contextual learning task.The left and right habenula were activated during aversive outcomes and the activation was associated with aversive prediction errors. Furthermore, dynamic causal modeling (DCM) analyses demonstrated the left and right habenula to the left and right hippocampus connections during the presentation of contextual stimuli. These findings serve to highlight the neural mechanisms that may be relevant to understanding the broader relationship between the habenula and learning processes.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.3389/fnhum.2020.00165&#34;&gt;https://doi.org/10.3389/fnhum.2020.00165&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
@@ -166,9 +166,9 @@
     
     <item>
       <title>Dogwood blooms</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200501_2/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200501_2/</link>
       <pubDate>Fri, 01 May 2020 19:21:30 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200501_2/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200501_2/</guid>
       <description>&lt;p&gt;We don&amp;rsquo;t see undergraduate students recently in the campus due to the COVID-19, and it is a pity not to see newcomers in this April. Dogweed bloom in front of the building as before reminds us of them.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -176,9 +176,9 @@
     
     <item>
       <title>Our recent review paper recognized as one of the most downloaded paper!!</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200501/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200501/</link>
       <pubDate>Fri, 01 May 2020 19:04:28 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200501/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200501/</guid>
       <description>&lt;p&gt;We wrote a review paper in Psychiatry and Clinical Neuroscience on a role of the habenula in depressioin. This is a recent update of the small brain structure called habenula in modulation of the mood in our daily life by graduate student Zhu-san and me. We are happy to hear that our paper turned out to be one of the most downloaded paper in the journal during 2018-2019.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -186,9 +186,9 @@
     
     <item>
       <title>Online lab meeting</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200429/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200429/</link>
       <pubDate>Wed, 29 Apr 2020 21:51:20 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200429/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200429/</guid>
       <description>&lt;p&gt;We started to hold weekly lab meeting for the progress report and journal club online over zoom. This is because we tried not to make members gathered at the same room to have lunch meeting. I found the online meeting still worked fine and we are getting familiar with it after several trials.
 Photo by Campaign Creators on Unsplash.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
@@ -197,18 +197,18 @@ Photo by Campaign Creators on Unsplash.&lt;/p&gt;
     
     <item>
       <title>Online histology class in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200425/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200425/</link>
       <pubDate>Sat, 25 Apr 2020 16:35:11 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200425/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200425/</guid>
       <description>&lt;p&gt;Under the influence of COVID-19, we set out our histology class using online tools such as Microsoft Teams and BB9. With having a chat with undergraduate students over MS Teams, we hope to discuss cellular organization of the organs in human as before.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Social sharing with Neurobiology lab in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200418/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200418/</link>
       <pubDate>Sat, 18 Apr 2020 10:41:53 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200418/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200418/</guid>
       <description>&lt;p&gt;We started new social sharing with twitter and facebook to post! Check the new post shared by them soon.&lt;/p&gt;
 &lt;!-- Sharingbutton Twitter --&gt;
 &lt;a class=&#34;resp-sharing-button__link&#34; href=&#34;https://twitter.com/NeurobiolLabHS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Twitter&#34;&gt;
@@ -227,9 +227,9 @@ Facebook: &lt;a href=&#34;http://www.facebook.com/NeurobiolHiroshima&#34;&gt;htt
     
     <item>
       <title>New faculty from Germany</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/post/20200417/</link>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200417/</link>
       <pubDate>Fri, 17 Apr 2020 14:45:28 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/post/20200417/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200417/</guid>
       <description>&lt;p&gt;We welcome new faculty from Germany. Dr. Handa and I worked previously in RIKEN Brain Science Institute in a collaborative way. While I moved to the new lab in Tokyo Medical and Dental University, he accomplished his work on a role of the rat prefrontal cortex in decision making as published in Cerebral Cortex (2017). Now that he elaborated his physiological technique using two photon microscopy, we look forward to collaborate with him again to make significant progress in Hiroshima.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>広島大学 |　神経生物学教室（相澤研究室） | 精神神経疾患の脳科学的理解へ向けてモデル動物で分子レベルの解明を目指します</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/ja/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/ja/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/ja/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>広島大学 |　神経生物学教室（相澤研究室） | 精神神経疾患の脳科学的理解へ向けてモデル動物で分子レベルの解明を目指します</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Wed, 28 Oct 2020 08:51:31 +0900</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>広島大学 |　神経生物学教室（相澤研究室） | 精神神経疾患の脳科学的理解へ向けてモデル動物で分子レベルの解明を目指します</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/</link>
     </image>
     
     <item>
       <title>うつ病における手綱核の役割</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/habenula-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/habenula-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/habenula-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/habenula-project/</guid>
       <description>&lt;h1 id=&#34;うつ病と神経回路&#34;&gt;うつ病と神経回路&lt;/h1&gt;
 &lt;p&gt;~手綱核過剰活性化によるうつ病モデルマウスの開発~&lt;/p&gt;
 &lt;p&gt;現在の薬物療法によるうつ病の寛解率は約15〜40％に留まっており、このような治療抵抗性の難治性うつ病では自殺等のリスクが増加するため、その病態解明は急務です。&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>AIZAWA lab</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/hero/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/hero/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/hero/</guid>
       <description>&lt;p&gt;&lt;strong&gt;モデル動物による精神疾患の病態解明へ&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;広島大学 神経生物学教室へようこそ！&lt;/p&gt;
 &lt;!-- Sharingbutton Twitter --&gt;
@@ -61,9 +61,9 @@
     
     <item>
       <title>脳卒中・片頭痛の増悪を招く興奮性の波</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/spreading_depression-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/spreading_depression-project/</guid>
       <description>&lt;h1 id=&#34;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&#34;&gt;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&lt;/h1&gt;
 &lt;p&gt;脳の主な興奮性の神経連絡はグルタミン酸を介して行われています。しかし、シナプスなどの細胞外のグルタミン酸濃度が過剰になるとむしろ細胞に対して毒性を発揮します。このような過剰な興奮は波状に伝搬し、「Killer wave」などと呼ばれ片頭痛や脳梗塞を増悪させる要因になることがわかってきました。&lt;/p&gt;
 &lt;p&gt;
@@ -80,9 +80,9 @@
     
     <item>
       <title>ハーブの抗てんかん効果</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/herbs-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/herbs-project/</guid>
       <description>&lt;h1 id=&#34;てんかんに対する伝統医学治療の生物学的実証&#34;&gt;てんかんに対する伝統医学治療の生物学的実証&lt;/h1&gt;
 &lt;p&gt;アフリカのマラウィでは多くの疾患の治療を伝統医学によるハーブに依っています。一方で、その薬理作用には不明な点が多く、その解明は発展途上にあるマラウィの医学において喫緊の課題です。私達は「遺伝資源へのアクセスと利益配分(ABS：Access and Benefit Sharing）」を背景にマラウィの研究者たちと協力し、この問題に取り組んでいます。具体的にはマラウィの伝統医学で使用されるハーブに対して薬物効果のスクリーニングに適したゼブラフィッシュを用いて検証し、その抗てんかん効果を明らかにしようとしています。&lt;/p&gt;
 </description>
@@ -90,17 +90,17 @@
     
     <item>
       <title>Skills</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/authors/skills/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/authors/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/authors/skills/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/authors/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>神経回路の活動を操作</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-circuit/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/tools-circuit/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-circuit/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/tools-circuit/</guid>
       <description>&lt;h1 id=&#34;精神神経疾患を引き起こす神経経路や細胞種を見つけ出す&#34;&gt;精神・神経疾患を引き起こす神経経路や細胞種を見つけ出す&lt;/h1&gt;
 &lt;p&gt;脳は機能の異なった複数の領域から構成されており、これらが相互作用することによって働いています。うつ病のような精神疾患は多彩な症状を示す症候群で、それぞれの症状に対応する神経回路の病理を明らかにすることが、新しい診断法・治療法の開発には不可欠です。この問題に取り組むため、遺伝子改変技術とウイルスによる遺伝子導入技術の開発を進めています。&lt;/p&gt;
 &lt;p&gt;例えば、新規遺伝子導入技術によってうつ病様の行動異常や睡眠障害に関与する脳の新たな細胞を見出しています。具体的には、神経細胞の活動を制御するグリア細胞のうち、アストロサイトと呼ばれる細胞の機能を抑制したマウスを作成し、ストレス感受性や不安様行動、レム睡眠異常などのうつ病様表現型を示すことを明らかにしました（Cui et al., J Neurosci, 2014; Aizawa and Zhu; 2019; Aizawa et al., GLIA, 2020)。&lt;/p&gt;
@@ -121,9 +121,9 @@
     
     <item>
       <title>国際色豊かな環境での脳科学研究</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/internationality/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/internationality/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/internationality/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/internationality/</guid>
       <description>&lt;h2 id=&#34;多彩な文化的背景をもつメンバーと脳の不思議を議論&#34;&gt;多彩な文化的背景をもつメンバーと脳の不思議を議論&lt;/h2&gt;
 &lt;p&gt;スーパーグローバル大学として国際化を加速する広島大学は「世界をキャンパスとして展開する広島大学改革」を進めています。外国人教員や女性教員の増員を基盤に、世界各国から広く大学生・大学院生を受け入れており、多彩な文化背景をもつ研究者や学生が教育・研究を展開しています。&lt;/p&gt;
 &lt;p&gt;私達は外国人教員（これまでに３名）と外国人学生（これまでに５名）とともに英語での議論を日々重ね、週１回のProgress report / Journal clubを通して脳科学を学んでいます。&lt;/p&gt;
@@ -141,9 +141,9 @@
     
     <item>
       <title>精神・神経疾患の動物モデル</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-disease/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/tools-disease/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-disease/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/tools-disease/</guid>
       <description>&lt;h1 id=&#34;うつ病の理解へむけたモデル動物と手綱核神経回路&#34;&gt;うつ病の理解へむけたモデル動物と手綱核神経回路&lt;/h1&gt;
 &lt;p&gt;手綱核は脳のほぼ中心部にある小さな領域ですが、精神・神経疾患の病態に深く関与するドーパミンやセロトニンなどの神経伝達物質の代謝を上位から制御する領域として、近年大きな注目を集めています。私達はうつ病における手綱核の役割を調べるため、手綱核の過剰活性化したマウスを遺伝子改変により作成し、ストレス環境下におけるうつ病様異常を調べています。これまでにこのマウスの脳幹部ではドーパミンやセロトニン産生細胞の活性化が抑えられており、ストレス感受性が高まっていることを見出しています。&lt;/p&gt;
 &lt;p&gt;研究プロジェクト：
@@ -185,9 +185,9 @@
     
     <item>
       <title>集中治療医学における脳科学</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/sepsis-project/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/sepsis-project/</guid>
       <description>&lt;p&gt;外傷や感染症など全身状態の悪化はしばしば集中治療が必要になります。全身管理のもと、たとえ全身状態が改善しても、集中治療室（ICU）からの生還者の中には、不安やうつ、筋力低下、集中力不足など精神・神経症状に悩まされることがあります。集中治療後症候群（post intensive care syndrome：PICS）として知られるこれらの病態は、昨今の新型コロナウイルス感染症の広がりを背景に関心を集めています。&lt;/p&gt;
 &lt;p&gt;これらの精神・神経症状の基盤には脳の炎症反応が関与することが知られており、中でもミクログリアやアストロサイトと呼ぼれるグリア細胞が中心的な役割を果たしています。上記の問題に取り組むため、私達は活性化したグリア細胞で多く発現するTSPO (Translocator protein 18 kDa)に注目して研究を進めています。&lt;/p&gt;
 &lt;p&gt;実際、実験的に活性化させた培養ミクログリア細胞ではTSPO遺伝子が平時よりも多く発現しており、逆にTSPO分子の機能を抑制したところ炎症反応を増悪させるサイトカインなどの液性因子の産生を抑えることを見出しました。&lt;/p&gt;
@@ -207,9 +207,9 @@
     
     <item>
       <title>新規顕微鏡開発による脳の三次元構造の可視化</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/microscopy-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/microscopy-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</guid>
       <description>&lt;h1 id=&#34;脳構造の三次元的可視化&#34;&gt;脳構造の三次元的可視化&lt;/h1&gt;
 &lt;p&gt;脳は空間的に多様な領域が入り組んで構成されています。脳機能の理解には、これらを特徴づける神経回路や発現している遺伝子・タンパク質の構造理解が必須です。この問題に当たるため、私達は、顕微鏡開発を専門とする研究者と協力し、微細な脳領域の三次元的可視化・再構築を可能にする顕微鏡開発を行っています。具体的には、従来あまり用いられることのなかった短波長の紫外線を利用して、脳局所の光情報を顕微鏡でスキャンし、情報科学と組み合わせて脳の構造をコンピュータで再構築します。&lt;/p&gt;
 </description>
@@ -217,9 +217,9 @@
     
     <item>
       <title>New study on a novel microscope for 3D visualization of the brain structure with deep ultraviolet light</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20201029/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20201029/</link>
       <pubDate>Wed, 28 Oct 2020 08:51:31 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20201029/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20201029/</guid>
       <description>&lt;p&gt;Deciphering the connectivity between brain regions is critical in understanding how the brain works. Three dimensional visualization of such networks of the neurons has been hampered by poor penetration of visible light into the large brain tissue.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;duv.png&#34; alt=&#34;Deep UV light&#34;&gt;&lt;/p&gt;
 &lt;p&gt;To address this, our group combined the serial sectioning of the tissue block to expose new surface of the brain with scanning by light. Collected image would be used for three dimensional reconstruction of the brain structure later in the offiline analysis.&lt;/p&gt;
@@ -237,9 +237,9 @@
     
     <item>
       <title>Psychiatric sequelae of intensive care: a role of neuroinflammation</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200926/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200926/</link>
       <pubDate>Thu, 24 Sep 2020 13:16:46 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200926/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200926/</guid>
       <description>&lt;p&gt;Physical stress such as infection and trauma, often causes a variety of outcome. COVID-19 outbreak in 2020 would likely result in an increase in intensive care survivors who would frequently develop anxiety, depression and PTSD as a part of post intensive care syndrome (PICS). Survival rates for critically ill patients are increasing as medical science advances, but with it PICS in survivors is becoming a major medical problem.&lt;/p&gt;
 &lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
 &lt;p&gt;As a collaborative study with Department of Emergency and Critical Care Medicine in Hiroshima University, We have just published a review paper which discusses recent advances in the studies on the role of translocator protein 18 kDa (TSPO) in microglial activation and in stressor-related disorders associated with anxiety and depression.&lt;/p&gt;
@@ -254,9 +254,9 @@
     
     <item>
       <title>New publication on a novel gene causing depressive-like behaviors</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200918/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200918/</link>
       <pubDate>Fri, 18 Sep 2020 16:53:13 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200918/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200918/</guid>
       <description>&lt;p&gt;We have just published a paper which identified a novel gene Pcsk5 acting on immune reaction in the mouse brain. Chronic stress activated this gene, which led to the subsequent activation of the other genes MMPs causing remodeling of the extracellular matrix. Since immune cell such as monocyte and microglia started to be activated and move more actively upon remodeling of extracellular matrix, Neurons seems to produce Pcsk5 seems to induce neuroinflammation in response to the chronic stress.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.nature.com/articles/s41386-020-00843-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Neuropsychopharmacology&lt;/a&gt;&lt;/p&gt;
@@ -273,25 +273,25 @@
     
     <item>
       <title>Activation of proprotein convertase in the mouse habenula causes depressive-like behaviors through remodeling of extracellular matrix</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32942293/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-32942293/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32942293/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-32942293/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microglial translocator protein and stressor-related disorder</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32980493/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-32980493/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32980493/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-32980493/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New publication on dopamine transmission in stress-coping behavior</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200829/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200829/</link>
       <pubDate>Fri, 28 Aug 2020 17:47:48 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200829/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200829/</guid>
       <description>&lt;p&gt;We recently published a paper on a role of neurotransmitter dopamine in stress-coping behavior in Journal of Neuroscience.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.jneurosci.org/content/early/2020/08/26/JNEUROSCI.0444-20.2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Journal of Neurosience&lt;/a&gt;&lt;/p&gt;
@@ -310,17 +310,17 @@
     
     <item>
       <title>Dopaminergic signaling in the nucleus accumbens modulates stress-coping strategies during inescapable stress</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32847967/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-32847967/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32847967/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-32847967/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New publication on spreading depression implicated in migraine and stroke</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200626/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200626/</link>
       <pubDate>Fri, 26 Jun 2020 12:40:12 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200626/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200626/</guid>
       <description>&lt;p&gt;Our group published a paper in the journal GLIA on a role of glutamate in spreading depression, a pre-clinical model for the aura preceding the migraine.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/glia.23874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in GLIA&lt;/a&gt;&lt;/p&gt;
@@ -339,24 +339,24 @@
     
     <item>
       <title>International collaboration</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200613/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200613/</link>
       <pubDate>Sat, 13 Jun 2020 06:04:31 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200613/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200613/</guid>
       <description>&lt;p&gt;We welcome the international students and collaboration to facilitate our progress in neuroscience. With the international background in Hiroshima, our lab encourages the students and researcher to develop their careers by scholarship and grants. Indeed, our lab members from a variety of countries all over the world weekly hold the meeting for the progress report and journal club. We also discuss the textbook to help the international students to understand the basics in neuroscience, optics and data science periodically.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;member.png&#34; alt=&#34;Lab members from the countries all over the world&#34;&gt;&lt;/p&gt;
 &lt;p&gt;On the other hand, our research is enpowered by collaborations with researcher all over the world. For example, we have invited the researcher from US, UK and China to discuss and perform experiments together to develop new technologies in neuroscience.&lt;/p&gt;
 &lt;p&gt;As an international and research university, Hiroshima university helps the students and researcher who do not speak Japanese to learn Japanese and Japanese culture through specific classes and socials (international luncheon parties).&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://neurobio.hiroshima-u.ac.jp/en/#contact&#34;&gt;Contact us&lt;/a&gt; if you are interested in joining us!&lt;/p&gt;
+&lt;a href=&#34;https://aizawalab.github.io/neurobio/en/#contact&#34;&gt;Contact us&lt;/a&gt; if you are interested in joining us!&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Scholarship supporting the graduate course in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200601/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200601/</link>
       <pubDate>Mon, 01 Jun 2020 22:18:03 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200601/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200601/</guid>
       <description>&lt;p&gt;Our lab currently work with six graduate students in total. Scholarship and support by the university primarily allow them to concentrate on their own project for the theses. We were pleased to see the students win the scholarship based on their achievement to develop the carreer in this field.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -364,9 +364,9 @@
     
     <item>
       <title>New publication on a role of human habenula in learning</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200512/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200512/</link>
       <pubDate>Tue, 12 May 2020 16:22:34 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200512/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200512/</guid>
       <description>&lt;p&gt;Habenula is an evolutionarily conserved structure in the brain and regulates the central monoaminergic metabolism. Despite a surge of interest on the habenula in neuroscience, function of the human habenula remains unclear. Dr. Yoshino led the project members including our lab performed functional magnetic resonance imaging (fMRI) analysis during a contextual learning task.The left and right habenula were activated during aversive outcomes and the activation was associated with aversive prediction errors. Furthermore, dynamic causal modeling (DCM) analyses demonstrated the left and right habenula to the left and right hippocampus connections during the presentation of contextual stimuli. These findings serve to highlight the neural mechanisms that may be relevant to understanding the broader relationship between the habenula and learning processes.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.3389/fnhum.2020.00165&#34;&gt;https://doi.org/10.3389/fnhum.2020.00165&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
@@ -375,9 +375,9 @@
     
     <item>
       <title>New publication on a role of human habenula in learning</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200512/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200512/</link>
       <pubDate>Tue, 12 May 2020 16:22:34 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200512/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200512/</guid>
       <description>&lt;p&gt;Habenula is an evolutionarily conserved structure in the brain and regulates the central monoaminergic metabolism. Despite a surge of interest on the habenula in neuroscience, function of the human habenula remains unclear. Dr. Yoshino led the project members including our lab performed functional magnetic resonance imaging (fMRI) analysis during a contextual learning task.The left and right habenula were activated during aversive outcomes and the activation was associated with aversive prediction errors. Furthermore, dynamic causal modeling (DCM) analyses demonstrated the left and right habenula to the left and right hippocampus connections during the presentation of contextual stimuli. These findings serve to highlight the neural mechanisms that may be relevant to understanding the broader relationship between the habenula and learning processes.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.3389/fnhum.2020.00165&#34;&gt;https://doi.org/10.3389/fnhum.2020.00165&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
@@ -386,9 +386,9 @@
     
     <item>
       <title>Dogwood blooms</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200501_2/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200501_2/</link>
       <pubDate>Fri, 01 May 2020 19:21:30 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200501_2/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200501_2/</guid>
       <description>&lt;p&gt;We don&amp;rsquo;t see undergraduate students recently in the campus due to the COVID-19, and it is a pity not to see newcomers in this April. Dogweed bloom in front of the building as before reminds us of them.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -396,9 +396,9 @@
     
     <item>
       <title>Dogwood blooms</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200501_2/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200501_2/</link>
       <pubDate>Fri, 01 May 2020 19:21:30 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200501_2/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200501_2/</guid>
       <description>&lt;p&gt;We don&amp;rsquo;t see undergraduate students recently in the campus due to the COVID-19, and it is a pity not to see newcomers in this April. Dogweed bloom in front of the building as before reminds us of them.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -406,9 +406,9 @@
     
     <item>
       <title>Our recent review paper recognized as one of the most downloaded paper!!</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200501/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200501/</link>
       <pubDate>Fri, 01 May 2020 19:04:28 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200501/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200501/</guid>
       <description>&lt;p&gt;We wrote a review paper in Psychiatry and Clinical Neuroscience on a role of the habenula in depressioin. This is a recent update of the small brain structure called habenula in modulation of the mood in our daily life by graduate student Zhu-san and me. We are happy to hear that our paper turned out to be one of the most downloaded paper in the journal during 2018-2019.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -416,9 +416,9 @@
     
     <item>
       <title>Our recent review paper recognized as one of the most downloaded paper!!</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200501/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200501/</link>
       <pubDate>Fri, 01 May 2020 19:04:28 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200501/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200501/</guid>
       <description>&lt;p&gt;We wrote a review paper in Psychiatry and Clinical Neuroscience on a role of the habenula in depressioin. This is a recent update of the small brain structure called habenula in modulation of the mood in our daily life by graduate student Zhu-san and me. We are happy to hear that our paper turned out to be one of the most downloaded paper in the journal during 2018-2019.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
@@ -426,9 +426,9 @@
     
     <item>
       <title>Online lab meeting</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200429/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200429/</link>
       <pubDate>Wed, 29 Apr 2020 21:51:20 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200429/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200429/</guid>
       <description>&lt;p&gt;We started to jold weekly lab meeting for progress report and journal club online over zoom. This is because we hesitate to make members gathered at the same room to have lunch meeting. I found the online meeting still work fine and us be familiar with it after several trials.
 Photo by Campaign Creators on Unsplash.
 #Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
@@ -437,9 +437,9 @@ Photo by Campaign Creators on Unsplash.
     
     <item>
       <title>Online lab meeting</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200429/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200429/</link>
       <pubDate>Wed, 29 Apr 2020 21:51:20 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200429/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200429/</guid>
       <description>&lt;p&gt;We started to hold weekly lab meeting for the progress report and journal club online over zoom. This is because we tried not to make members gathered at the same room to have lunch meeting. I found the online meeting still worked fine and we are getting familiar with it after several trials.
 Photo by Campaign Creators on Unsplash.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
@@ -448,27 +448,27 @@ Photo by Campaign Creators on Unsplash.&lt;/p&gt;
     
     <item>
       <title>Online histology class in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200425/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200425/</link>
       <pubDate>Sat, 25 Apr 2020 16:35:11 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200425/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200425/</guid>
       <description>&lt;p&gt;Under the influence of COVID-19, we set out our histology class using online tools such as Microsoft Teams and BB9. With having a chat with undergraduate students over MS Teams, we hope to discuss cellular organization of the organs in human as before.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Online histology class in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200425/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200425/</link>
       <pubDate>Sat, 25 Apr 2020 16:35:11 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200425/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200425/</guid>
       <description>&lt;p&gt;Under the influence of COVID-19, we set out our histology class using online tools such as Microsoft Teams and BB9. With having a chat with undergraduate students over MS Teams, we hope to discuss cellular organization of the organs in human as before.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Social sharing with Neurobiology lab in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200418/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200418/</link>
       <pubDate>Sat, 18 Apr 2020 10:41:53 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200418/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200418/</guid>
       <description>&lt;p&gt;We started new social sharing with twitter and facebook to post! Check the new post shared by them soon.&lt;/p&gt;
 &lt;!-- Sharingbutton Twitter --&gt;
 &lt;a class=&#34;resp-sharing-button__link&#34; href=&#34;https://twitter.com/NeurobiolLabHS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Twitter&#34;&gt;
@@ -487,9 +487,9 @@ Facebook: &lt;a href=&#34;http://www.facebook.com/NeurobiolHiroshima&#34;&gt;htt
     
     <item>
       <title>Social sharing with Neurobiology lab in Hiroshima</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200418/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200418/</link>
       <pubDate>Sat, 18 Apr 2020 10:41:53 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200418/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200418/</guid>
       <description>&lt;p&gt;We started new social sharing with twitter and facebook to post! Check the new post shared by them soon.&lt;/p&gt;
 &lt;!-- Sharingbutton Twitter --&gt;
 &lt;a class=&#34;resp-sharing-button__link&#34; href=&#34;https://twitter.com/NeurobiolLabHS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Twitter&#34;&gt;
@@ -508,67 +508,67 @@ Facebook: &lt;a href=&#34;http://www.facebook.com/NeurobiolHiroshima&#34;&gt;htt
     
     <item>
       <title>New faculty from Germany</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200417/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200417/</link>
       <pubDate>Fri, 17 Apr 2020 14:45:28 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/20200417/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200417/</guid>
       <description>&lt;p&gt;We welcome new faculty from Germany. Dr. Handa and I worked previously in RIKEN Brain Science Institute in a collaborative way. While I moved to the new lab in Tokyo Medical and Dental University, he accomplished his work on a role of the rat prefrontal cortex in decision making as published in Cerebral Cortex (2017). Now that he elaborated his physiological technique using two photon microscopy, we look forward to collaborate with him again to make significant progress in Hiroshima.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New faculty from Germany</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post/20200417/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post/20200417/</link>
       <pubDate>Fri, 17 Apr 2020 14:45:28 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post/20200417/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post/20200417/</guid>
       <description>&lt;p&gt;We welcome new faculty from Germany. Dr. Handa and I worked previously in RIKEN Brain Science Institute in a collaborative way. While I moved to the new lab in Tokyo Medical and Dental University, he accomplished his work on a role of the rat prefrontal cortex in decision making as published in Cerebral Cortex (2017). Now that he elaborated his physiological technique using two photon microscopy, we look forward to collaborate with him again to make significant progress in Hiroshima.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Antidepressant effect of the translocator protein antagonist ONO-2952 on mouse behaviors under chronic social defeat stress</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-31682855/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-31682855/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-31682855/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-31682855/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glial Glutamate Transporter GLT-1 Determines Susceptibility to Spreading Depression in the Mouse Cerebral Cortex</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32585762/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-32585762/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32585762/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-32585762/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importance of the Habenula for Avoidance Learning Including Contextual Cues in the Human Brain: A Preliminary fMRI Study</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32477084/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-32477084/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-32477084/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-32477084/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phospholipase C-related catalytically inactive protein regulates lipopolysaccharide-induced hypothalamic inflammation-mediated anorexia in mice</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-31589911/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-31589911/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-31589911/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-31589911/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward an understanding of the habenula&#39;s various roles in human depression</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-31131942/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-31131942/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-31131942/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-31131942/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/writing-technical-content/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/writing-technical-content/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -800,9 +800,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/jupyter/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/jupyter/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -849,49 +849,49 @@ date: 2019-09-01
     
     <item>
       <title>Region-specific deletions of the glutamate transporter GLT1 differentially affect seizure activity and neurodegeneration in mice</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-29214672/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-29214672/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-29214672/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-29214672/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sodium butyrate abolishes lipopolysaccharide-induced depression-like behaviors and hippocampal microglial activation in mice</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-29229502/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-29229502/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-29229502/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-29229502/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternative splicing in the C-terminal tail of Cav2.1 is essential for preventing a neurological disease in mice</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-28510727/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-28510727/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-28510727/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-28510727/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene cassette knock-in in mammalian cells and zygotes by enhanced MMEJ</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-27894274/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-27894274/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-27894274/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-27894274/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impaired striatal dopamine release in homozygous Vps35 D620N knock-in mice</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-28173004/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-28173004/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-28173004/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-28173004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/getting-started/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/post.bk/getting-started/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -1033,193 +1033,193 @@ date: 2019-09-01
     
     <item>
       <title>Neuronal Heterotopias Affect the Activities of Distant Brain Areas and Lead to Behavioral Deficits</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-26354912/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-26354912/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-26354912/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-26354912/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Astroglial glutamate transporter deficiency increases synaptic excitability and leads to pathological repetitive behaviors in mice</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-25662838/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-25662838/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-25662838/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-25662838/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glial dysfunction in the mouse habenula causes depressive-like behaviors and sleep disturbance</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-25471567/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-25471567/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-25471567/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-25471567/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The habenulo-raphe serotonergic circuit encodes an aversive expectation value essential for adaptive active avoidance of danger</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-25467985/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-25467985/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-25467985/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-25467985/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyperactivation of the habenula as a link between depression and sleep disturbance</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-24339810/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-24339810/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-24339810/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-24339810/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging of neural ensemble for the retrieval of a learned behavioral program</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23684786/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-23684786/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23684786/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-23684786/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reward-modulated motor information in identified striatum neurons</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23785137/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-23785137/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23785137/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-23785137/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fear and anxiety regulation by conserved affective circuits</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23664609/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-23664609/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23664609/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-23664609/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The synchronous activity of lateral habenular neurons is essential for regulating hippocampal theta oscillation</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23678132/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-23678132/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23678132/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-23678132/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Habenula and the asymmetric development of the vertebrate brain</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23086722/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-23086722/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-23086722/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-23086722/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular characterization of the subnuclei in rat habenula</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-22700183/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-22700183/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-22700183/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-22700183/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phylogeny and ontogeny of the habenular structure</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-22203792/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-22203792/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-22203792/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-22203792/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The habenula is crucial for experience-dependent modification of fear responses in zebrafish</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-20935642/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-20935642/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-20935642/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-20935642/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of the zebrafish ventral habenula as a homolog of the mammalian lateral habenula</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-20107084/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-20107084/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-20107084/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-20107084/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microcircuitry coordination of cortical motor information in self-initiation of voluntary movements</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-19898469/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-19898469/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-19898469/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-19898469/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of the mouse amygdala as revealed by enhanced green fluorescent protein gene transfer by means of in utero electroporation</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-19107806/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-19107806/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-19107806/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-19107806/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transgenic technology for visualization and manipulation of the neural circuits controlling behavior in zebrafish</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-18430169/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-18430169/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-18430169/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-18430169/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetic single-cell mosaic analysis implicates ephrinB2 reverse signaling in projections from the posterior tectum to the hindbrain in zebrafish</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-17507550/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-17507550/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-17507550/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-17507550/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization of two distinct classes of neurons by gad2 and zic1 promoter/enhancer elements in the dorsal hindbrain of developing zebrafish reveals neuronal connectivity related to the auditory and lateral line systems</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-17279576/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-17279576/</link>
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-17279576/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-17279576/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporally regulated asymmetric neurogenesis causes left-right difference in the zebrafish habenular structures</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-17199043/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-17199043/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-17199043/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-17199043/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laterotopic representation of left-right information onto the dorso-ventral axis of a zebrafish midbrain target nucleus</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-15694307/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-15694307/</link>
       <pubDate>Tue, 01 Feb 2005 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-15694307/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-15694307/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of the amygdalohypothalamic projection in the mouse embryonic forebrain</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-15232736/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-15232736/</link>
       <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-15232736/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-15232736/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of the coding sequences of mouse homologues of KIAA gene: II. The complete nucleotide sequences of 400 mouse KIAA-homologous cDNAs identified by screening of terminal sequences of cDNA clones randomly sampled from size-fractionated libraries</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-12693553/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-12693553/</link>
       <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-12693553/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-12693553/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impaired cell cycle control of neuronal precursor cells in the neocortical primordium of presenilin-1-deficient mice</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-12391611/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/publication/pmid-12391611/</link>
       <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/publication/pmid-12391611/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/publication/pmid-12391611/</guid>
       <description></description>
     </item>
     

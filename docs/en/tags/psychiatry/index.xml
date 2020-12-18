@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psychiatry | AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/en/tags/psychiatry/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/tags/psychiatry/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/en/tags/psychiatry/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/en/tags/psychiatry/index.xml" rel="self" type="application/rss+xml" />
     <description>Psychiatry</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Thu, 24 Sep 2020 15:31:48 +0900</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Psychiatry</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/tags/psychiatry/</link>
+      <link>https://aizawalab.github.io/neurobio/en/tags/psychiatry/</link>
     </image>
     
     <item>
       <title>Habenula Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/habenula-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/habenula-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/habenula-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/habenula-project/</guid>
       <description>&lt;h1 id=&#34;development-of-the-animal-model-for-depression&#34;&gt;Development of the animal model for depression&lt;/h1&gt;
 &lt;p&gt;The habenula is a diencephalic nucleus regulating monoamines such as dopamine and serotonin. We recently found that pathological activation of the habenula led the mice to show depressive-like behaviors under acute and chronic stress. Analyses revealed that mice with hyperactivated habenula showed reduction in the number of c-Fos positive cells in the brain stem nuclei producing the serotonin and dopamine, indicating that activation of those monoaminergic neurons was reduced upon activation of the habenula. Thus, our working hypothesis is that habenular activation elicits  depressive-like behaviors by way of  modulating monoaminergic activities.&lt;/p&gt;
 &lt;p&gt;See details in the recent post.&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Sepsis Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/sepsis-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</link>
       <pubDate>Thu, 24 Sep 2020 15:31:48 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/sepsis-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</guid>
       <description>&lt;p&gt;Sepsis is a life-threatening dysfunction of multiple organs caused by a dysregulated host response to infection. Notably, sepsis-associated encephalopathy (SAE) is a diffuse brain dysfunction associated with sepsis. As SAE develops a wide variety of disorders in neural functions, ranging from delirium to long-term cognitive impairment, molecular mechanism underlying it remains elusive.&lt;/p&gt;
 &lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
 &lt;p&gt;We begin to understand a role of microglia in SAE by examining the function of mitochondrial protein, translocator protein 18 kDa (TSPO). As it is upregulated in immune cells such as microglia, it has attracted a surge of interest as a biomarker of the inflammatory response in the CNS. Indeed, microglial activity seems to be under the regulation of TSPO, at least in part.&lt;/p&gt;

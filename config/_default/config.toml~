@@ -14,7 +14,7 @@ baseurl = "https://neurobio.hiroshima-u.ac.jp/"
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = "&copy; {year} Neurobiology lab in Hiroshima University"
-
+publishDir = "docs"
 ############################
 ## Advanced options below ##
 ############################
@@ -77,7 +77,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
-publishDir = "docs"
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

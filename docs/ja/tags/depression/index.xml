@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Depression | 広島大学 |　神経生物学教室（相澤研究室） | 精神神経疾患の脳科学的理解へ向けてモデル動物で分子レベルの解明を目指します</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/ja/tags/depression/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/ja/tags/depression/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/ja/tags/depression/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/ja/tags/depression/index.xml" rel="self" type="application/rss+xml" />
     <description>Depression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Depression</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/tags/depression/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/tags/depression/</link>
     </image>
     
     <item>
       <title>うつ病における手綱核の役割</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/habenula-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/habenula-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/habenula-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/habenula-project/</guid>
       <description>&lt;h1 id=&#34;うつ病と神経回路&#34;&gt;うつ病と神経回路&lt;/h1&gt;
 &lt;p&gt;~手綱核過剰活性化によるうつ病モデルマウスの開発~&lt;/p&gt;
 &lt;p&gt;現在の薬物療法によるうつ病の寛解率は約15〜40％に留まっており、このような治療抵抗性の難治性うつ病では自殺等のリスクが増加するため、その病態解明は急務です。&lt;/p&gt;

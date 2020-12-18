@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/en/project/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/en/project/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Thu, 24 Sep 2020 15:31:48 +0900</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/</link>
     </image>
     
     <item>
       <title>Habenula Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/habenula-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/habenula-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/habenula-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/habenula-project/</guid>
       <description>&lt;h1 id=&#34;development-of-the-animal-model-for-depression&#34;&gt;Development of the animal model for depression&lt;/h1&gt;
 &lt;p&gt;The habenula is a diencephalic nucleus regulating monoamines such as dopamine and serotonin. We recently found that pathological activation of the habenula led the mice to show depressive-like behaviors under acute and chronic stress. Analyses revealed that mice with hyperactivated habenula showed reduction in the number of c-Fos positive cells in the brain stem nuclei producing the serotonin and dopamine, indicating that activation of those monoaminergic neurons was reduced upon activation of the habenula. Thus, our working hypothesis is that habenular activation elicits  depressive-like behaviors by way of  modulating monoaminergic activities.&lt;/p&gt;
 &lt;p&gt;See details in the recent post.&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Spreading Depression Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/spreading_depression-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/spreading_depression-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/spreading_depression-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/spreading_depression-project/</guid>
       <description>&lt;h1 id=&#34;neural-excitability-in-stroke-and-migraine&#34;&gt;Neural excitability in stroke and migraine&lt;/h1&gt;
 &lt;p&gt;Excitatory neural transmission is primarily mediated by glutamate in the synapse. However, excess extracellular glutamate is rather harmful for the brain and sometimes worsens brain pathology in neurological disorders such as stroke and migraine. Such pathological activation of neural tissue some can be propagated like waves in the brain and affect the prognosis of those diseases.&lt;/p&gt;
 &lt;p&gt;The ischemic and hypoglycemic brain, in particular, has an increase in neural excitability and shows propagation of neuronal and glial depolarization, a phenomenon known as spreading depolarization (spreading depression). Lesion core with hypoxia, for example, releases excitatory molecules such as glutamate and potassium. These molecules diffuse outside the cells and, in turn, activate the neurons surrounding the lesion core. Propagation of such an excitatory wave results in further demand of energy essential to maintain the viability of the tissue at risk surround the lesion core.&lt;/p&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Medicinal Herbs Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/herbs-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/herbs-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/herbs-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/herbs-project/</guid>
       <description>&lt;h1 id=&#34;toward-a-biological-evidence-for-the-traditional-medicine-in-epilepsy&#34;&gt;Toward a biological evidence for the traditional medicine in epilepsy&lt;/h1&gt;
 &lt;p&gt;Medicinal herbs play a central role in treatment of diseases in Malawi. Despite its prevelance in the country, it remains elusive whether those herbs have anti-epileptic effect based on the modern biology. We collaborate with the researchers in Malawi to start examining an anti-epileptic effect of the extract from the medicinal herbs used by Malawian practitioner in treatment of epileptic patients. To this end, we use zebrafish, an animal model amenable for drug screening and molecular/behavioral analyses.&lt;/p&gt;
 </description>
@@ -59,9 +59,9 @@
     
     <item>
       <title>Manupulation of the neural circuit</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/tools-circuit/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/tools-circuit/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/tools-circuit/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/tools-circuit/</guid>
       <description>&lt;h1 id=&#34;unraveling-the-neural-circuit-responsible-for-the-mental-and-neurological-diseases&#34;&gt;Unraveling the neural circuit responsible for the mental and neurological diseases&lt;/h1&gt;
 &lt;p&gt;Brain consists of multiple regions with different functions. To reveal the neural pathway delineating the specific symptoms in diseases, genetics must be one of the most powerful tool to examine the neural network based on the speciific cell types and pathways. This can be achieved by a combination of gene targeting and viral vectors.&lt;/p&gt;
 &lt;p&gt;Our lab developed such novel tools to target specific cell type such as glia for functional analyses. For example, we revealed a critical role of the astroglia in depressive-like behaviors and sleep disturbance by glia-specific viral vectors (Cui et al., J Neurosci, 2014).&lt;/p&gt;
@@ -76,9 +76,9 @@
     
     <item>
       <title>Animal models for disorders in the brain</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/tools-disease/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/tools-disease/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/tools-disease/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/tools-disease/</guid>
       <description>&lt;h1 id=&#34;development-of-the-animal-model-for-depression&#34;&gt;Development of the animal model for depression&lt;/h1&gt;
 &lt;p&gt;The habenula is a diencephalic nucleus regulating monoamines such as dopamine and serotonin. We recently found that pathological activation of the habenula led the mice to show depressive-like behaviors under acute and chronic stress. Analyses revealed that mice with hyperactivated habenula showed reduction in the number of c-Fos positive cells in the brain stem nuclei producing the serotonin and dopamine, indicating that activation of those monoaminergic neurons was reduced upon activation of the habenula. Thus, our working hypothesis is that habenular activation elicits depressive-like behaviors by way of modulating monoaminergic activities.
 &lt;img src=&#34;csds.png&#34; alt=&#34;Chronic social defeat stress&#34;&gt;&lt;/p&gt;
@@ -110,9 +110,9 @@
     
     <item>
       <title>3D Microscopy Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/microscopy-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/microscopy-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</guid>
       <description>&lt;h1 id=&#34;microscopic-analysis-of-the-neural-structure&#34;&gt;Microscopic analysis of the neural structure&lt;/h1&gt;
 &lt;p&gt;Brain consists of multiple brain regions with different functions. Since they interact to act as unified organ, visualization of the three dimensional organization of the gene/protein expression on neural circuits is indispensable. To address this, we are currently developing a novel fluorescent microscope which allows volumentric analysis of the nervous tissue with referring to the gene/protein expression.&lt;/p&gt;
 </description>
@@ -120,9 +120,9 @@
     
     <item>
       <title>Sepsis Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/sepsis-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</link>
       <pubDate>Thu, 24 Sep 2020 15:31:48 +0900</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/sepsis-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</guid>
       <description>&lt;p&gt;Sepsis is a life-threatening dysfunction of multiple organs caused by a dysregulated host response to infection. Notably, sepsis-associated encephalopathy (SAE) is a diffuse brain dysfunction associated with sepsis. As SAE develops a wide variety of disorders in neural functions, ranging from delirium to long-term cognitive impairment, molecular mechanism underlying it remains elusive.&lt;/p&gt;
 &lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
 &lt;p&gt;We begin to understand a role of microglia in SAE by examining the function of mitochondrial protein, translocator protein 18 kDa (TSPO). As it is upregulated in immune cells such as microglia, it has attracted a surge of interest as a biomarker of the inflammatory response in the CNS. Indeed, microglial activity seems to be under the regulation of TSPO, at least in part.&lt;/p&gt;

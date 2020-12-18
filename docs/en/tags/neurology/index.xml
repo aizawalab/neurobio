@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neurology | AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/en/tags/neurology/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/en/tags/neurology/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/en/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
     <description>Neurology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Neurology</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/tags/neurology/</link>
+      <link>https://aizawalab.github.io/neurobio/en/tags/neurology/</link>
     </image>
     
     <item>
       <title>Spreading Depression Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/spreading_depression-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/spreading_depression-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/spreading_depression-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/spreading_depression-project/</guid>
       <description>&lt;h1 id=&#34;neural-excitability-in-stroke-and-migraine&#34;&gt;Neural excitability in stroke and migraine&lt;/h1&gt;
 &lt;p&gt;Excitatory neural transmission is primarily mediated by glutamate in the synapse. However, excess extracellular glutamate is rather harmful for the brain and sometimes worsens brain pathology in neurological disorders such as stroke and migraine. Such pathological activation of neural tissue some can be propagated like waves in the brain and affect the prognosis of those diseases.&lt;/p&gt;
 &lt;p&gt;The ischemic and hypoglycemic brain, in particular, has an increase in neural excitability and shows propagation of neuronal and glial depolarization, a phenomenon known as spreading depolarization (spreading depression). Lesion core with hypoxia, for example, releases excitatory molecules such as glutamate and potassium. These molecules diffuse outside the cells and, in turn, activate the neurons surrounding the lesion core. Propagation of such an excitatory wave results in further demand of energy essential to maintain the viability of the tissue at risk surround the lesion core.&lt;/p&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>Medicinal Herbs Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/herbs-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/herbs-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/herbs-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/herbs-project/</guid>
       <description>&lt;h1 id=&#34;toward-a-biological-evidence-for-the-traditional-medicine-in-epilepsy&#34;&gt;Toward a biological evidence for the traditional medicine in epilepsy&lt;/h1&gt;
 &lt;p&gt;Medicinal herbs play a central role in treatment of diseases in Malawi. Despite its prevelance in the country, it remains elusive whether those herbs have anti-epileptic effect based on the modern biology. We collaborate with the researchers in Malawi to start examining an anti-epileptic effect of the extract from the medicinal herbs used by Malawian practitioner in treatment of epileptic patients. To this end, we use zebrafish, an animal model amenable for drug screening and molecular/behavioral analyses.&lt;/p&gt;
 </description>

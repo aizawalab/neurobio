@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | 広島大学 |　神経生物学教室（相澤研究室） | 精神神経疾患の脳科学的理解へ向けてモデル動物で分子レベルの解明を目指します</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/ja/project/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/ja/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/ja/project/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/ja/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/</link>
     </image>
     
     <item>
       <title>うつ病における手綱核の役割</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/habenula-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/habenula-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/habenula-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/habenula-project/</guid>
       <description>&lt;h1 id=&#34;うつ病と神経回路&#34;&gt;うつ病と神経回路&lt;/h1&gt;
 &lt;p&gt;~手綱核過剰活性化によるうつ病モデルマウスの開発~&lt;/p&gt;
 &lt;p&gt;現在の薬物療法によるうつ病の寛解率は約15〜40％に留まっており、このような治療抵抗性の難治性うつ病では自殺等のリスクが増加するため、その病態解明は急務です。&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>脳卒中・片頭痛の増悪を招く興奮性の波</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/spreading_depression-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/spreading_depression-project/</guid>
       <description>&lt;h1 id=&#34;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&#34;&gt;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&lt;/h1&gt;
 &lt;p&gt;脳の主な興奮性の神経連絡はグルタミン酸を介して行われています。しかし、シナプスなどの細胞外のグルタミン酸濃度が過剰になるとむしろ細胞に対して毒性を発揮します。このような過剰な興奮は波状に伝搬し、「Killer wave」などと呼ばれ片頭痛や脳梗塞を増悪させる要因になることがわかってきました。&lt;/p&gt;
 &lt;p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>ハーブの抗てんかん効果</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/herbs-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/herbs-project/</guid>
       <description>&lt;h1 id=&#34;てんかんに対する伝統医学治療の生物学的実証&#34;&gt;てんかんに対する伝統医学治療の生物学的実証&lt;/h1&gt;
 &lt;p&gt;アフリカのマラウィでは多くの疾患の治療を伝統医学によるハーブに依っています。一方で、その薬理作用には不明な点が多く、その解明は発展途上にあるマラウィの医学において喫緊の課題です。私達は「遺伝資源へのアクセスと利益配分(ABS：Access and Benefit Sharing）」を背景にマラウィの研究者たちと協力し、この問題に取り組んでいます。具体的にはマラウィの伝統医学で使用されるハーブに対して薬物効果のスクリーニングに適したゼブラフィッシュを用いて検証し、その抗てんかん効果を明らかにしようとしています。&lt;/p&gt;
 </description>
@@ -66,9 +66,9 @@
     
     <item>
       <title>神経回路の活動を操作</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-circuit/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/tools-circuit/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-circuit/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/tools-circuit/</guid>
       <description>&lt;h1 id=&#34;精神神経疾患を引き起こす神経経路や細胞種を見つけ出す&#34;&gt;精神・神経疾患を引き起こす神経経路や細胞種を見つけ出す&lt;/h1&gt;
 &lt;p&gt;脳は機能の異なった複数の領域から構成されており、これらが相互作用することによって働いています。うつ病のような精神疾患は多彩な症状を示す症候群で、それぞれの症状に対応する神経回路の病理を明らかにすることが、新しい診断法・治療法の開発には不可欠です。この問題に取り組むため、遺伝子改変技術とウイルスによる遺伝子導入技術の開発を進めています。&lt;/p&gt;
 &lt;p&gt;例えば、新規遺伝子導入技術によってうつ病様の行動異常や睡眠障害に関与する脳の新たな細胞を見出しています。具体的には、神経細胞の活動を制御するグリア細胞のうち、アストロサイトと呼ばれる細胞の機能を抑制したマウスを作成し、ストレス感受性や不安様行動、レム睡眠異常などのうつ病様表現型を示すことを明らかにしました（Cui et al., J Neurosci, 2014; Aizawa and Zhu; 2019; Aizawa et al., GLIA, 2020)。&lt;/p&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>国際色豊かな環境での脳科学研究</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/internationality/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/internationality/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/internationality/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/internationality/</guid>
       <description>&lt;h2 id=&#34;多彩な文化的背景をもつメンバーと脳の不思議を議論&#34;&gt;多彩な文化的背景をもつメンバーと脳の不思議を議論&lt;/h2&gt;
 &lt;p&gt;スーパーグローバル大学として国際化を加速する広島大学は「世界をキャンパスとして展開する広島大学改革」を進めています。外国人教員や女性教員の増員を基盤に、世界各国から広く大学生・大学院生を受け入れており、多彩な文化背景をもつ研究者や学生が教育・研究を展開しています。&lt;/p&gt;
 &lt;p&gt;私達は外国人教員（これまでに３名）と外国人学生（これまでに５名）とともに英語での議論を日々重ね、週１回のProgress report / Journal clubを通して脳科学を学んでいます。&lt;/p&gt;
@@ -109,9 +109,9 @@
     
     <item>
       <title>精神・神経疾患の動物モデル</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-disease/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/tools-disease/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/tools-disease/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/tools-disease/</guid>
       <description>&lt;h1 id=&#34;うつ病の理解へむけたモデル動物と手綱核神経回路&#34;&gt;うつ病の理解へむけたモデル動物と手綱核神経回路&lt;/h1&gt;
 &lt;p&gt;手綱核は脳のほぼ中心部にある小さな領域ですが、精神・神経疾患の病態に深く関与するドーパミンやセロトニンなどの神経伝達物質の代謝を上位から制御する領域として、近年大きな注目を集めています。私達はうつ病における手綱核の役割を調べるため、手綱核の過剰活性化したマウスを遺伝子改変により作成し、ストレス環境下におけるうつ病様異常を調べています。これまでにこのマウスの脳幹部ではドーパミンやセロトニン産生細胞の活性化が抑えられており、ストレス感受性が高まっていることを見出しています。&lt;/p&gt;
 &lt;p&gt;研究プロジェクト：
@@ -153,9 +153,9 @@
     
     <item>
       <title>集中治療医学における脳科学</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/sepsis-project/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/sepsis-project/</guid>
       <description>&lt;p&gt;外傷や感染症など全身状態の悪化はしばしば集中治療が必要になります。全身管理のもと、たとえ全身状態が改善しても、集中治療室（ICU）からの生還者の中には、不安やうつ、筋力低下、集中力不足など精神・神経症状に悩まされることがあります。集中治療後症候群（post intensive care syndrome：PICS）として知られるこれらの病態は、昨今の新型コロナウイルス感染症の広がりを背景に関心を集めています。&lt;/p&gt;
 &lt;p&gt;これらの精神・神経症状の基盤には脳の炎症反応が関与することが知られており、中でもミクログリアやアストロサイトと呼ぼれるグリア細胞が中心的な役割を果たしています。上記の問題に取り組むため、私達は活性化したグリア細胞で多く発現するTSPO (Translocator protein 18 kDa)に注目して研究を進めています。&lt;/p&gt;
 &lt;p&gt;実際、実験的に活性化させた培養ミクログリア細胞ではTSPO遺伝子が平時よりも多く発現しており、逆にTSPO分子の機能を抑制したところ炎症反応を増悪させるサイトカインなどの液性因子の産生を抑えることを見出しました。&lt;/p&gt;
@@ -175,9 +175,9 @@
     
     <item>
       <title>新規顕微鏡開発による脳の三次元構造の可視化</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/microscopy-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/microscopy-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</guid>
       <description>&lt;h1 id=&#34;脳構造の三次元的可視化&#34;&gt;脳構造の三次元的可視化&lt;/h1&gt;
 &lt;p&gt;脳は空間的に多様な領域が入り組んで構成されています。脳機能の理解には、これらを特徴づける神経回路や発現している遺伝子・タンパク質の構造理解が必須です。この問題に当たるため、私達は、顕微鏡開発を専門とする研究者と協力し、微細な脳領域の三次元的可視化・再構築を可能にする顕微鏡開発を行っています。具体的には、従来あまり用いられることのなかった短波長の紫外線を利用して、脳局所の光情報を顕微鏡でスキャンし、情報科学と組み合わせて脳の構造をコンピュータで再構築します。&lt;/p&gt;
 </description>

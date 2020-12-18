@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools | AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/en/tags/tools/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/en/tags/tools/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/en/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <description>Tools</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Tools</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/tags/tools/</link>
+      <link>https://aizawalab.github.io/neurobio/en/tags/tools/</link>
     </image>
     
     <item>
       <title>Manupulation of the neural circuit</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/tools-circuit/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/tools-circuit/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/tools-circuit/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/tools-circuit/</guid>
       <description>&lt;h1 id=&#34;unraveling-the-neural-circuit-responsible-for-the-mental-and-neurological-diseases&#34;&gt;Unraveling the neural circuit responsible for the mental and neurological diseases&lt;/h1&gt;
 &lt;p&gt;Brain consists of multiple regions with different functions. To reveal the neural pathway delineating the specific symptoms in diseases, genetics must be one of the most powerful tool to examine the neural network based on the speciific cell types and pathways. This can be achieved by a combination of gene targeting and viral vectors.&lt;/p&gt;
 &lt;p&gt;Our lab developed such novel tools to target specific cell type such as glia for functional analyses. For example, we revealed a critical role of the astroglia in depressive-like behaviors and sleep disturbance by glia-specific viral vectors (Cui et al., J Neurosci, 2014).&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Animal models for disorders in the brain</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/tools-disease/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/tools-disease/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/tools-disease/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/tools-disease/</guid>
       <description>&lt;h1 id=&#34;development-of-the-animal-model-for-depression&#34;&gt;Development of the animal model for depression&lt;/h1&gt;
 &lt;p&gt;The habenula is a diencephalic nucleus regulating monoamines such as dopamine and serotonin. We recently found that pathological activation of the habenula led the mice to show depressive-like behaviors under acute and chronic stress. Analyses revealed that mice with hyperactivated habenula showed reduction in the number of c-Fos positive cells in the brain stem nuclei producing the serotonin and dopamine, indicating that activation of those monoaminergic neurons was reduced upon activation of the habenula. Thus, our working hypothesis is that habenular activation elicits depressive-like behaviors by way of modulating monoaminergic activities.
 &lt;img src=&#34;csds.png&#34; alt=&#34;Chronic social defeat stress&#34;&gt;&lt;/p&gt;
@@ -65,9 +65,9 @@
     
     <item>
       <title>3D Microscopy Project</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/project/microscopy-project/</link>
+      <link>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/microscopy-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</guid>
       <description>&lt;h1 id=&#34;microscopic-analysis-of-the-neural-structure&#34;&gt;Microscopic analysis of the neural structure&lt;/h1&gt;
 &lt;p&gt;Brain consists of multiple brain regions with different functions. Since they interact to act as unified organ, visualization of the three dimensional organization of the gene/protein expression on neural circuits is indispensable. To address this, we are currently developing a novel fluorescent microscope which allows volumentric analysis of the nervous tissue with referring to the gene/protein expression.&lt;/p&gt;
 </description>

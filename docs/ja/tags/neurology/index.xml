@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neurology | 広島大学 |　神経生物学教室（相澤研究室） | 精神神経疾患の脳科学的理解へ向けてモデル動物で分子レベルの解明を目指します</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/ja/tags/neurology/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/ja/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/ja/tags/neurology/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/ja/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
     <description>Neurology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Neurology</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/tags/neurology/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/tags/neurology/</link>
     </image>
     
     <item>
       <title>脳卒中・片頭痛の増悪を招く興奮性の波</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/spreading_depression-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/spreading_depression-project/</guid>
       <description>&lt;h1 id=&#34;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&#34;&gt;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&lt;/h1&gt;
 &lt;p&gt;脳の主な興奮性の神経連絡はグルタミン酸を介して行われています。しかし、シナプスなどの細胞外のグルタミン酸濃度が過剰になるとむしろ細胞に対して毒性を発揮します。このような過剰な興奮は波状に伝搬し、「Killer wave」などと呼ばれ片頭痛や脳梗塞を増悪させる要因になることがわかってきました。&lt;/p&gt;
 &lt;p&gt;
@@ -33,9 +33,9 @@
     
     <item>
       <title>ハーブの抗てんかん効果</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/herbs-project/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/herbs-project/</guid>
       <description>&lt;h1 id=&#34;てんかんに対する伝統医学治療の生物学的実証&#34;&gt;てんかんに対する伝統医学治療の生物学的実証&lt;/h1&gt;
 &lt;p&gt;アフリカのマラウィでは多くの疾患の治療を伝統医学によるハーブに依っています。一方で、その薬理作用には不明な点が多く、その解明は発展途上にあるマラウィの医学において喫緊の課題です。私達は「遺伝資源へのアクセスと利益配分(ABS：Access and Benefit Sharing）」を背景にマラウィの研究者たちと協力し、この問題に取り組んでいます。具体的にはマラウィの伝統医学で使用されるハーブに対して薬物効果のスクリーニングに適したゼブラフィッシュを用いて検証し、その抗てんかん効果を明らかにしようとしています。&lt;/p&gt;
 </description>
@@ -43,9 +43,9 @@
     
     <item>
       <title>集中治療医学における脳科学</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</link>
+      <link>https://aizawalab.github.io/neurobio/ja/project/sepsis-project/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</guid>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/sepsis-project/</guid>
       <description>&lt;p&gt;外傷や感染症など全身状態の悪化はしばしば集中治療が必要になります。全身管理のもと、たとえ全身状態が改善しても、集中治療室（ICU）からの生還者の中には、不安やうつ、筋力低下、集中力不足など精神・神経症状に悩まされることがあります。集中治療後症候群（post intensive care syndrome：PICS）として知られるこれらの病態は、昨今の新型コロナウイルス感染症の広がりを背景に関心を集めています。&lt;/p&gt;
 &lt;p&gt;これらの精神・神経症状の基盤には脳の炎症反応が関与することが知られており、中でもミクログリアやアストロサイトと呼ぼれるグリア細胞が中心的な役割を果たしています。上記の問題に取り組むため、私達は活性化したグリア細胞で多く発現するTSPO (Translocator protein 18 kDa)に注目して研究を進めています。&lt;/p&gt;
 &lt;p&gt;実際、実験的に活性化させた培養ミクログリア細胞ではTSPO遺伝子が平時よりも多く発現しており、逆にTSPO分子の機能を抑制したところ炎症反応を増悪させるサイトカインなどの液性因子の産生を抑えることを見出しました。&lt;/p&gt;

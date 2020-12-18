@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
-    <link>https://neurobio.hiroshima-u.ac.jp/en/authors/</link>
-      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aizawalab.github.io/neurobio/en/authors/</link>
+      <atom:link href="https://aizawalab.github.io/neurobio/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Wed, 28 Oct 2020 08:51:31 +0900</lastBuildDate>
     <image>
-      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/authors/</link>
+      <link>https://aizawalab.github.io/neurobio/en/authors/</link>
     </image>
     
     <item>
       <title>Skills</title>
-      <link>https://neurobio.hiroshima-u.ac.jp/en/authors/skills/</link>
+      <link>https://aizawalab.github.io/neurobio/en/authors/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://neurobio.hiroshima-u.ac.jp/en/authors/skills/</guid>
+      <guid>https://aizawalab.github.io/neurobio/en/authors/skills/</guid>
       <description></description>
     </item>
     
