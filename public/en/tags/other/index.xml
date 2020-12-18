@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
+    <link>https://neurobio.hiroshima-u.ac.jp/en/tags/other/</link>
+      <atom:link href="https://neurobio.hiroshima-u.ac.jp/en/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <title>Other</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/en/tags/other/</link>
+    </image>
+    
+    <item>
+      <title>Key techniques</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/en/project/tools/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/tools/</guid>
+      <description>&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;p&gt;Electrophysiology acquires the electrical response of the neurons at millisecond order and enables simultaneous interaction between brain areas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Key techniques in the lab</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/en/project/key-tools/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/key-tools/</guid>
+      <description>&lt;h1 id=&#34;development-of-the-animal-model-for-depression&#34;&gt;Development of the animal model for depression&lt;/h1&gt;
+&lt;p&gt;The habenula is a diencephalic nucleus regulating monoamines such as dopamine and serotonin. We recently found that pathological activation of the habenula led the mice to show depressive-like behaviors under acute and chronic stress. Analyses revealed that mice with hyperactivated habenula showed reduction in the number of c-Fos positive cells in the brain stem nuclei producing the serotonin and dopamine, indicating that activation of those monoaminergic neurons was reduced upon activation of the habenula. Thus, our working hypothesis is that habenular activation elicits  depressive-like behaviors by way of  modulating monoaminergic activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Microscopy Project</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/en/project/microscopy-project/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://neurobio.hiroshima-u.ac.jp/en/project/microscopy-project/</guid>
+      <description>&lt;h1 id=&#34;microscopic-analysis-of-the-neural-structure&#34;&gt;Microscopic analysis of the neural structure&lt;/h1&gt;
+&lt;p&gt;Brain consists of multiple brain regions with different functions. Since they interact to act as unified organ, visualization of the three dimensional organization of the gene/protein expression on neural circuits is indispensable. To address this, we are currently developing a novel fluorescent microscope which allows volumentric analysis of the nervous tissue with referring to the gene/protein expression.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

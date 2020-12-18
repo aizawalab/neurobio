@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neurology | 広島大学 |　神経生物学教室（相澤研究室） | 精神神経疾患の脳科学的理解へ向けてモデル動物で分子レベルの解明を目指します</title>
+    <link>https://neurobio.hiroshima-u.ac.jp/ja/tags/neurology/</link>
+      <atom:link href="https://neurobio.hiroshima-u.ac.jp/ja/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neurology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://neurobio.hiroshima-u.ac.jp/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
+      <title>Neurology</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/ja/tags/neurology/</link>
+    </image>
+    
+    <item>
+      <title>脳卒中・片頭痛の増悪を招く興奮性の波</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/spreading_depression-project/</guid>
+      <description>&lt;h1 id=&#34;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&#34;&gt;脳卒中や偏頭痛に共通した脳全体に拡大する神経興奮の波&lt;/h1&gt;
+&lt;p&gt;脳の主な興奮性の神経連絡はグルタミン酸を介して行われています。しかし、シナプスなどの細胞外のグルタミン酸濃度が過剰になるとむしろ細胞に対して毒性を発揮します。このような過剰な興奮は波状に伝搬し、「Killer wave」などと呼ばれ片頭痛や脳梗塞を増悪させる要因になることがわかってきました。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://neurobio.hiroshima-u.ac.jp/en/post/20200626/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;広島大学プレスリリース：片頭痛の前兆に関与する遺伝子をマウスで発見～片頭痛の病態解明や新たな治療薬の開発に前進～&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;特に、虚血や低血糖などのストレス下では大脳皮質の興奮性はむしろ高まり、場合によってはその興奮の高まりが波のように三次元的に広がっていく拡延性抑制（もしくは拡延性脱分極）という現象が急激に注目を集めています。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;details.png&#34; alt=&#34;Spreading depolarization as killer wave&#34;&gt;&lt;/p&gt;
+&lt;p&gt;実際、最近の多くのヒト機能画像研究が片頭痛や脳卒中・脳外傷の患者の大脳皮質で拡延性抑制を観察したと報告しています。さらに悪い事に拡延性抑制は繰り返し引き起こされ、例えば脳外傷では拡延性抑制が繰り返されるほど予後が不良になる傾向があるようです。&lt;/p&gt;
+&lt;p&gt;これは、おそらく拡延性抑制により大脳皮質細胞が必要とするエネルギー需要と虚血や低血糖などにより減少したエネルギー供給のミスマッチにより細胞死を起こす領域が拡大するためと考えられます。このような状況を改善するためには、拡延性抑制を抑える新たな治療法の確立が急務です。&lt;/p&gt;
+&lt;p&gt;この問題に挑戦するため、マウスやゼブラフィッシュをモデルとして研究を進めています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;＜研究成果１＞&lt;/strong&gt;　グリア細胞の一種アストロサイトが拡延性抑制への感受性を制御していることを明らかにしました。通常、アストロサイトは細胞外のグルタミン酸を細胞内へ輸送体を使って運び込むことにより細胞外グルタミン酸濃度を低濃度に抑えています。我々が最近開発したグルタミン酸輸送体GLT-1のノックアウトマウスは大脳皮質の興奮性が病的に高まり、拡延性抑制に対する感受性が低くなっていました。グリア細胞のグルタミン酸輸送能を高める治療法を開発する事で拡延性抑制の頻度を抑え、ひいては頭痛の予防や脳卒中の予後改善につながる可能性を示唆しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;＜研究成果２＞&lt;/strong&gt;　薬剤スクリーニングに適したモデル動物ゼブラフィッシュの脳で拡延性抑制を再現することに成功しました。このことで、神経活動を指標として拡延性抑制を抑える候補薬を調べていきます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ハーブの抗てんかん効果</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/herbs-project/</guid>
+      <description>&lt;h1 id=&#34;てんかんに対する伝統医学治療の生物学的実証&#34;&gt;てんかんに対する伝統医学治療の生物学的実証&lt;/h1&gt;
+&lt;p&gt;アフリカのマラウィでは多くの疾患の治療を伝統医学によるハーブに依っています。一方で、その薬理作用には不明な点が多く、その解明は発展途上にあるマラウィの医学において喫緊の課題です。私達は「遺伝資源へのアクセスと利益配分(ABS：Access and Benefit Sharing）」を背景にマラウィの研究者たちと協力し、この問題に取り組んでいます。具体的にはマラウィの伝統医学で使用されるハーブに対して薬物効果のスクリーニングに適したゼブラフィッシュを用いて検証し、その抗てんかん効果を明らかにしようとしています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>集中治療医学における脳科学</title>
+      <link>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://neurobio.hiroshima-u.ac.jp/ja/project/sepsis-project/</guid>
+      <description>&lt;p&gt;外傷や感染症など全身状態の悪化はしばしば集中治療が必要になります。全身管理のもと、たとえ全身状態が改善しても、集中治療室（ICU）からの生還者の中には、不安やうつ、筋力低下、集中力不足など精神・神経症状に悩まされることがあります。集中治療後症候群（post intensive care syndrome：PICS）として知られるこれらの病態は、昨今の新型コロナウイルス感染症の広がりを背景に関心を集めています。&lt;/p&gt;
+&lt;p&gt;これらの精神・神経症状の基盤には脳の炎症反応が関与することが知られており、中でもミクログリアやアストロサイトと呼ぼれるグリア細胞が中心的な役割を果たしています。上記の問題に取り組むため、私達は活性化したグリア細胞で多く発現するTSPO (Translocator protein 18 kDa)に注目して研究を進めています。&lt;/p&gt;
+&lt;p&gt;実際、実験的に活性化させた培養ミクログリア細胞ではTSPO遺伝子が平時よりも多く発現しており、逆にTSPO分子の機能を抑制したところ炎症反応を増悪させるサイトカインなどの液性因子の産生を抑えることを見出しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;iba1_tspo.png&#34; alt=&#34;TSPO expression in the microglia&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Nozaki K, Ito H, Ohgidani M, et al. Antidepressant effect of the translocator protein antagonist ONO-2952 on mouse behaviors under chronic social defeat stress. Neuropharmacology. 2020;162:107835. 
+&lt;a href=&#34;doi:10.1016/j.neuropharm.2019.107835&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;また、小野薬品工業と共同して研究を進め、ONO-2952という化合物をマウスへ全身投与すると、社会的ストレスに対する脳の炎症反応を抑えるとともに、うつ病のような行動異常を予防する効果があることを見出しました。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.hiroshima-u.ac.jp/system/files/129948/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%EF%BC%88%E8%84%B3%E3%81%AE%E7%82%8E%E7%97%87%E3%81%AB%E4%BD%9C%E7%94%A8%E3%81%99%E3%82%8BTSPO%E3%82%92%E6%A8%99%E7%9A%84%E3%81%A8%E3%81%97%E3%81%9F%E6%96%B0%E3%81%9F%E3%81%AA%E6%8A%97%E3%81%86%E3%81%A4%E8%96%AC%E5%80%99%E8%A3%9C%E3%82%92%E7%99%BA%E8%A6%8B%EF%BC%89.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;広島大学プレスリリース：脳の炎症に作用する TSPO を標的とした新たな抗うつ薬候補を発見&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;TSPOの働きを調べるポジトロン断層法(PET)という方法はすでにヒトを対象とした臨床研究が盛んでアルツハイマー認知症などの脳疾患の診断・治療研究に応用されつつあります。私達は、敗血症などの集中治療を要する疾患の新たな診断・治療法開発へむけてTSPOの役割やTSPO標的薬の研究をまとめ論文発表しました。これらを基盤として、集中治療後症候群や敗血症関連脳症の病態を明らかにします。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ミクログリアTSPOとストレス関連障害&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kikutani K, Giga H, Hosokawa K, Shime N, Aizawa H, &lt;strong&gt;Microglial translocator protein and stressor-related disorder.&lt;/strong&gt; Neurochem Int. 2020, &lt;em&gt;in press&lt;/em&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.neuint.2020.104855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tspo.png&#34; alt=&#34;ミクログリアTSPOとストレス関連障害&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
