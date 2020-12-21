@@ -107,6 +107,21 @@
   </url>
   
   <url>
+    <loc>https://aizawalab.github.io/neurobio/en/authors/admin/</loc>
+    <lastmod>2020-12-21T14:06:31+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizawalab.github.io/neurobio/ja/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizawalab.github.io/neurobio/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aizawalab.github.io/neurobio/en/</loc>
     <lastmod>2020-12-21T14:06:31+09:00</lastmod>
     <xhtml:link
@@ -122,8 +137,48 @@
   </url>
   
   <url>
+    <loc>https://aizawalab.github.io/neurobio/en/authors/</loc>
+    <lastmod>2020-12-21T14:06:31+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizawalab.github.io/neurobio/ja/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizawalab.github.io/neurobio/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aizawalab.github.io/neurobio/en/authors/</loc>
+    <lastmod>2020-12-21T14:06:31+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizawalab.github.io/neurobio/ja/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizawalab.github.io/neurobio/en/authors/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aizawalab.github.io/neurobio/en/post/20201221/</loc>
     <lastmod>2020-12-21T14:06:31+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizawalab.github.io/neurobio/ja/post/20201221/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizawalab.github.io/neurobio/en/post/20201221/"
+                />
   </url>
   
   <url>
@@ -138,51 +193,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aizawalab.github.io/neurobio/en/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aizawalab.github.io/neurobio/en/authors/admin/</loc>
-    <lastmod>2020-10-28T08:51:31+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizawalab.github.io/neurobio/ja/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizawalab.github.io/neurobio/en/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aizawalab.github.io/neurobio/en/authors/</loc>
-    <lastmod>2020-10-28T08:51:31+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizawalab.github.io/neurobio/ja/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizawalab.github.io/neurobio/en/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aizawalab.github.io/neurobio/en/authors/</loc>
-    <lastmod>2020-10-28T08:51:31+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizawalab.github.io/neurobio/ja/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizawalab.github.io/neurobio/en/authors/"
                 />
   </url>
   
