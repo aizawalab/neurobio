@@ -3,7 +3,7 @@
 
 title: "New gene acting on microglia activated upon sepsis which needs critical care medicine."
 subtitle: ""
-summary: "Pharmacological and genetic suppression of the mitochondrial protein rescues the sepsis-associated brain damage"
+summary: "Pharmacological and genetic suppression of the mitochondrial protein rescues the sepsis-associated brain damage."
 authors: [admin]
 tags: []
 categories: []
