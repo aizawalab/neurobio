@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>新規顕微鏡開発による脳の三次元構造の可視化</title>
+      <link>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</guid>
+      <description>&lt;h1 id=&#34;脳構造の三次元的可視化&#34;&gt;脳構造の三次元的可視化&lt;/h1&gt;
+&lt;p&gt;脳は空間的に多様な領域が入り組んで構成されています。脳機能の理解には、これらを特徴づける神経回路や発現している遺伝子・タンパク質の構造理解が必須です。この問題に当たるため、私達は、顕微鏡開発を専門とする研究者と協力し、微細な脳領域の三次元的可視化・再構築を可能にする顕微鏡開発を行っています。具体的には、従来あまり用いられることのなかった短波長の紫外線を利用して、脳局所の光情報を顕微鏡でスキャンし、情報科学と組み合わせて脳の構造をコンピュータで再構築します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>神経回路の活動を操作</title>
       <link>https://aizawalab.github.io/neurobio/ja/project/tools-circuit/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
@@ -96,16 +106,6 @@
 &lt;p&gt;Kikutani K, Giga H, Hosokawa K, Shime N, Aizawa H, &lt;strong&gt;Microglial translocator protein and stressor-related disorder.&lt;/strong&gt; Neurochem Int. 2020, &lt;em&gt;in press&lt;/em&gt; 
 &lt;a href=&#34;https://doi.org/10.1016/j.neuint.2020.104855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;tspo.png&#34; alt=&#34;ミクログリアTSPOとストレス関連障害&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>新規顕微鏡開発による脳の三次元構造の可視化</title>
-      <link>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://aizawalab.github.io/neurobio/ja/project/microscopy-project/</guid>
-      <description>&lt;h1 id=&#34;脳構造の三次元的可視化&#34;&gt;脳構造の三次元的可視化&lt;/h1&gt;
-&lt;p&gt;脳は空間的に多様な領域が入り組んで構成されています。脳機能の理解には、これらを特徴づける神経回路や発現している遺伝子・タンパク質の構造理解が必須です。この問題に当たるため、私達は、顕微鏡開発を専門とする研究者と協力し、微細な脳領域の三次元的可視化・再構築を可能にする顕微鏡開発を行っています。具体的には、従来あまり用いられることのなかった短波長の紫外線を利用して、脳局所の光情報を顕微鏡でスキャンし、情報科学と組み合わせて脳の構造をコンピュータで再構築します。&lt;/p&gt;
 </description>
     </item>
     

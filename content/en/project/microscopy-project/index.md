@@ -4,7 +4,7 @@ summary: We are developing the fluorescent microscope which allows us to reveal 
 tags:
 - Tools
 date: "2020-04-15T00:00:00Z"
-weight: 100
+weight: 40
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

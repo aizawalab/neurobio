@@ -4,7 +4,7 @@ summary: Pharmacological effect of medicinal herbs in Malawi is examined using z
 tags:
 - Neurology
 date: "2020-04-15T00:00:00Z"
-weight: 30
+weight: 50
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

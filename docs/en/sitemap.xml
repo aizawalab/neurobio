@@ -33,17 +33,17 @@
   </url>
   
   <url>
-    <loc>https://aizawalab.github.io/neurobio/en/project/herbs-project/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <loc>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</loc>
+    <lastmod>2020-09-24T15:31:48+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://aizawalab.github.io/neurobio/ja/project/herbs-project/"
+                href="https://aizawalab.github.io/neurobio/ja/project/sepsis-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aizawalab.github.io/neurobio/en/project/herbs-project/"
+                href="https://aizawalab.github.io/neurobio/en/project/sepsis-project/"
                 />
   </url>
   
@@ -58,6 +58,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aizawalab.github.io/neurobio/en/authors/skills/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizawalab.github.io/neurobio/ja/project/microscopy-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizawalab.github.io/neurobio/en/project/microscopy-project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aizawalab.github.io/neurobio/en/project/herbs-project/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizawalab.github.io/neurobio/ja/project/herbs-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizawalab.github.io/neurobio/en/project/herbs-project/"
                 />
   </url>
   
@@ -88,21 +118,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aizawalab.github.io/neurobio/en/project/tools-disease/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizawalab.github.io/neurobio/ja/project/microscopy-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizawalab.github.io/neurobio/en/project/microscopy-project/"
                 />
   </url>
   
@@ -529,21 +544,6 @@
   <url>
     <loc>https://aizawalab.github.io/neurobio/en/tags/psychiatry/</loc>
     <lastmod>2020-09-24T15:31:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</loc>
-    <lastmod>2020-09-24T15:31:48+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizawalab.github.io/neurobio/ja/project/sepsis-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizawalab.github.io/neurobio/en/project/sepsis-project/"
-                />
   </url>
   
   <url>

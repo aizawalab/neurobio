@@ -4,7 +4,7 @@ summary: 感染症や外傷による重篤な全身状態から脳を守る鍵�
 tags:
 - Neurology
 date: "2020-05-04T00:00:00Z"
-weight: 99
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

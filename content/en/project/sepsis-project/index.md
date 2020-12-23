@@ -3,11 +3,12 @@
 
 title: "Sepsis Project"
 summary: "How do we save our brain from systemic inflammation?"
-authors: [admin]
+authors: [admin, giga, kikutani]
 tags: 
 - Psychiatry
 categories: []
 date: 2020-09-24T15:31:48+09:00
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -80,7 +80,11 @@ user_groups:
 # - Visitors
 ---
 
-Dr. Aizawa is the Professor of the Department of Neurobiology, Graduate School of Biomedical and Health Sciences, Hiroshima University. After training as a psychiatrist, Dr. Aizawa completed his Ph.D in Neuroanatomy at Chiba University. He joined Hitoshi Okamoto’s lab in RIKEN Brain Science Institute as a research scientist as well as deputy lab head and found evolutionarily conserved habenular pathways in vertebrate brain. He moved to the study on a role of the habenula in depression at Tokyo Medical and Dental University and Hiroshima University. His research interests include the molecular machinery underlying the pathophysiology of psychiatric and neurologic disorders.
+Dr. Aizawa is the Professor of the Department of Neurobiology, Graduate School of Biomedical and Health Sciences, Hiroshima University. After training as a psychiatrist, Dr. Aizawa completed his Ph.D in Neuroanatomy at Chiba University. He joined Hitoshi Okamoto’s lab in RIKEN Brain Science Institute as a research scientist as well as deputy lab head and found evolutionarily conserved habenular pathways in vertebrate brain. He moved to the study on a role of the habenula in depression at Tokyo Medical and Dental University and Hiroshima University. His research interests include the molecular machinery underlying the pathophysiology of psychiatric and neurologic disorders. 
+
+We usually hold the weekly meeting on Friday for the journal club and progress report. In addition, neuroscience textbook is also dsicussed to help the beginners to learn the basics periodically, which we call neuroscience club.
+
+If you are interested in joining our lab or collaborative project, please feel free to contact us via [[Contact]](#contact)
 
 [Researchmap](https://researchmap.jp/haizawa/?lang=en)
 

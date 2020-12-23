@@ -4,7 +4,7 @@ summary: アフリカの学者・学生と協力して伝統医学の生物的�
 tags:
 - Neurology
 date: "2020-04-15T00:00:00Z"
-weight: 30
+weight: 50
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

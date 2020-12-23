@@ -48,12 +48,20 @@
     </item>
     
     <item>
-      <title>Medicinal Herbs Project</title>
-      <link>https://aizawalab.github.io/neurobio/en/project/herbs-project/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://aizawalab.github.io/neurobio/en/project/herbs-project/</guid>
-      <description>&lt;h1 id=&#34;toward-a-biological-evidence-for-the-traditional-medicine-in-epilepsy&#34;&gt;Toward a biological evidence for the traditional medicine in epilepsy&lt;/h1&gt;
-&lt;p&gt;Medicinal herbs play a central role in treatment of diseases in Malawi. Despite its prevelance in the country, it remains elusive whether those herbs have anti-epileptic effect based on the modern biology. We collaborate with the researchers in Malawi to start examining an anti-epileptic effect of the extract from the medicinal herbs used by Malawian practitioner in treatment of epileptic patients. To this end, we use zebrafish, an animal model amenable for drug screening and molecular/behavioral analyses.&lt;/p&gt;
+      <title>Sepsis Project</title>
+      <link>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</link>
+      <pubDate>Thu, 24 Sep 2020 15:31:48 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</guid>
+      <description>&lt;p&gt;Sepsis is a life-threatening dysfunction of multiple organs caused by a dysregulated host response to infection. Notably, sepsis-associated encephalopathy (SAE) is a diffuse brain dysfunction associated with sepsis. As SAE develops a wide variety of disorders in neural functions, ranging from delirium to long-term cognitive impairment, molecular mechanism underlying it remains elusive.&lt;/p&gt;
+&lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
+&lt;p&gt;We begin to understand a role of microglia in SAE by examining the function of mitochondrial protein, translocator protein 18 kDa (TSPO). As it is upregulated in immune cells such as microglia, it has attracted a surge of interest as a biomarker of the inflammatory response in the CNS. Indeed, microglial activity seems to be under the regulation of TSPO, at least in part.&lt;/p&gt;
+&lt;p&gt;By extending those studies, we hope to develop a novel category of drugs for the treatment of SAE and stressor-related disorder which might occurs in intensive care survivors.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;iba1_tspo.png&#34; alt=&#34;Activation of microglia with expression of TSPO&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See below for details.&lt;/p&gt;
+&lt;p&gt;Kikutani K, Giga H, Hosokawa K, Shime N, Aizawa H, &lt;strong&gt;Microglial translocator protein and stressor-related disorder.&lt;/strong&gt; Neurochem Int. 2020, &lt;em&gt;in press&lt;/em&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.neuint.2020.104855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nozaki K, Ito H, Ohgidani M, Yamawaki Y, Sahin EH, Kitajima T, Katsumata S, Yamawaki S, Kato TA, Aizawa H. &lt;strong&gt;Antidepressant effect of the translocator protein antagonist ONO-2952 on mouse behaviors under chronic social defeat stress.&lt;/strong&gt;  Neuropharmacology. 2020 Jan 1;162:107835.
+&lt;a href=&#34;10.1016/j.neuropharm.2019.107835&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -63,6 +71,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aizawalab.github.io/neurobio/en/authors/skills/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>3D Microscopy Project</title>
+      <link>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</guid>
+      <description>&lt;h1 id=&#34;microscopic-analysis-of-the-neural-structure&#34;&gt;Microscopic analysis of the neural structure&lt;/h1&gt;
+&lt;p&gt;Brain consists of multiple brain regions with different functions. Since they interact to act as unified organ, visualization of the three dimensional organization of the gene/protein expression on neural circuits is indispensable. To address this, we are currently developing a novel fluorescent microscope which allows volumentric analysis of the nervous tissue with referring to the gene/protein expression.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medicinal Herbs Project</title>
+      <link>https://aizawalab.github.io/neurobio/en/project/herbs-project/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/en/project/herbs-project/</guid>
+      <description>&lt;h1 id=&#34;toward-a-biological-evidence-for-the-traditional-medicine-in-epilepsy&#34;&gt;Toward a biological evidence for the traditional medicine in epilepsy&lt;/h1&gt;
+&lt;p&gt;Medicinal herbs play a central role in treatment of diseases in Malawi. Despite its prevelance in the country, it remains elusive whether those herbs have anti-epileptic effect based on the modern biology. We collaborate with the researchers in Malawi to start examining an anti-epileptic effect of the extract from the medicinal herbs used by Malawian practitioner in treatment of epileptic patients. To this end, we use zebrafish, an animal model amenable for drug screening and molecular/behavioral analyses.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -117,16 +145,6 @@
     </item>
     
     <item>
-      <title>3D Microscopy Project</title>
-      <link>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://aizawalab.github.io/neurobio/en/project/microscopy-project/</guid>
-      <description>&lt;h1 id=&#34;microscopic-analysis-of-the-neural-structure&#34;&gt;Microscopic analysis of the neural structure&lt;/h1&gt;
-&lt;p&gt;Brain consists of multiple brain regions with different functions. Since they interact to act as unified organ, visualization of the three dimensional organization of the gene/protein expression on neural circuits is indispensable. To address this, we are currently developing a novel fluorescent microscope which allows volumentric analysis of the nervous tissue with referring to the gene/protein expression.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>New gene acting on microglia activated upon sepsis which needs critical care medicine.</title>
       <link>https://aizawalab.github.io/neurobio/en/post/20201221/</link>
       <pubDate>Mon, 21 Dec 2020 14:06:31 +0900</pubDate>
@@ -170,24 +188,6 @@
 &lt;p&gt;We applied this technique to the brain samples of small animals expressing green fluorescent protein and lipophilic dye in the neural pathways of mice and zebrafish. We are currently screening the fluorescent proteins and dyes compatible with this technology to widen the area for further application.&lt;/p&gt;
 &lt;p&gt;Interestingly, DUV imaging is quite cost-effective according to the simplicity of the optical setup. This is advantageous for the high throughput analyses with multple setups in the lab over the pre-existing expensive solution such as light-sheet and two-photon microscopies.&lt;/p&gt;
 &lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sepsis Project</title>
-      <link>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</link>
-      <pubDate>Thu, 24 Sep 2020 15:31:48 +0900</pubDate>
-      <guid>https://aizawalab.github.io/neurobio/en/project/sepsis-project/</guid>
-      <description>&lt;p&gt;Sepsis is a life-threatening dysfunction of multiple organs caused by a dysregulated host response to infection. Notably, sepsis-associated encephalopathy (SAE) is a diffuse brain dysfunction associated with sepsis. As SAE develops a wide variety of disorders in neural functions, ranging from delirium to long-term cognitive impairment, molecular mechanism underlying it remains elusive.&lt;/p&gt;
-&lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
-&lt;p&gt;We begin to understand a role of microglia in SAE by examining the function of mitochondrial protein, translocator protein 18 kDa (TSPO). As it is upregulated in immune cells such as microglia, it has attracted a surge of interest as a biomarker of the inflammatory response in the CNS. Indeed, microglial activity seems to be under the regulation of TSPO, at least in part.&lt;/p&gt;
-&lt;p&gt;By extending those studies, we hope to develop a novel category of drugs for the treatment of SAE and stressor-related disorder which might occurs in intensive care survivors.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;iba1_tspo.png&#34; alt=&#34;Activation of microglia with expression of TSPO&#34;&gt;&lt;/p&gt;
-&lt;p&gt;See below for details.&lt;/p&gt;
-&lt;p&gt;Kikutani K, Giga H, Hosokawa K, Shime N, Aizawa H, &lt;strong&gt;Microglial translocator protein and stressor-related disorder.&lt;/strong&gt; Neurochem Int. 2020, &lt;em&gt;in press&lt;/em&gt; 
-&lt;a href=&#34;https://doi.org/10.1016/j.neuint.2020.104855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nozaki K, Ito H, Ohgidani M, Yamawaki Y, Sahin EH, Kitajima T, Katsumata S, Yamawaki S, Kato TA, Aizawa H. &lt;strong&gt;Antidepressant effect of the translocator protein antagonist ONO-2952 on mouse behaviors under chronic social defeat stress.&lt;/strong&gt;  Neuropharmacology. 2020 Jan 1;162:107835.
-&lt;a href=&#34;10.1016/j.neuropharm.2019.107835&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
