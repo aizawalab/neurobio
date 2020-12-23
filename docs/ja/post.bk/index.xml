@@ -5,12 +5,155 @@
     <link>https://aizawalab.github.io/neurobio/ja/post.bk/</link>
       <atom:link href="https://aizawalab.github.io/neurobio/ja/post.bk/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Tue, 12 May 2020 16:22:34 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Mon, 21 Dec 2020 14:06:31 +0900</lastBuildDate>
     <image>
       <url>https://aizawalab.github.io/neurobio/images/logo_hu3a19eda7c46e3a038077b40a81977f92_85527_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
       <link>https://aizawalab.github.io/neurobio/ja/post.bk/</link>
     </image>
+    
+    <item>
+      <title>New gene acting on microglia activated upon sepsis which needs critical care medicine.</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20201221/</link>
+      <pubDate>Mon, 21 Dec 2020 14:06:31 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20201221/</guid>
+      <description>&lt;p&gt;Stressors such as surgery, infection and injury lead to the pathological condition known as sepsis. Associate with the systemic inflammation, not only the visceral organs but the brain starts to respond and behave in an unusual way. Sepsis-associated encephalopathy (SAE) is a diffuse brain dysfunction associated with sepsis. The development of an effective strategy for early diagnosis and therapeutic intervention is essential for the prevention of poor prognosis of SAE.&lt;/p&gt;
+&lt;p&gt;Translocator protein 18 kDa (TSPO) is a mitochondrial protein implicated in inflammatory responses. Despite accumulating evidence that implicates TSPO in the neuroinflammatory response of the central nervous system, the possible role of TSPO in SAE remains unclear. In the current study, we addressed a role of TSPO in neuroinflammation using mice 24 h after systemic injection of lipopolysaccharide (LPS), which consistently demonstrated microglial activation and behavioral inhibition.&lt;/p&gt;
+&lt;p&gt;Hiroshi Giga, Bin Ji, Kazuya Kikutani, Shuji Fukuda, Takashi Kitajima, Seishi Katsumata, Miho Matsumata, Tetsuya Suhara, Shigeto Yamawaki, Nobuaki Shime, Koji Hosokawa, Hidenori Aizawa &lt;strong&gt;&amp;ldquo;Pharmacological and Genetic Inhibition of Translocator Protein 18 kDa Ameliorated Neuroinflammation in Murine Endotoxemia Model&amp;rdquo;&lt;/strong&gt; SHOCK (20) &lt;em&gt;in press&lt;/em&gt;
+
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33351449/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PubMed]&lt;/a&gt;
+
+&lt;a href=&#34;https://journals.lww.com/shockjournal/Abstract/9000/Pharmacological_and_Genetic_Inhibition_of.97339.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Journal website]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gene expression analysis showed that TSPO in the hippomcapus was induced following the systemic LPS injection, associated with an increase in pro-inflammatory cytokines such as tumor necrosis factor-a and interleukin-1b. Interestingly, pretreatment with the TSPO antagonist, ONO-2952, or germ-line deletion of the TSPO gene exhibited an anti-inflammatory effect with significant suppression of LPS-induced production of those cytokines.&lt;/p&gt;
+&lt;p&gt;These effects of ONO-2952 or TSPO knockout were associated with significant recovery from behavioral inhibition, as shown by improved locomotor activity in the open field analysis. We also observed that ONO-2952 pretreatment suppressed the LPS-induced activation of TSPO-expressing microglia in the hippocampus.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;behaviors.png&#34; alt=&#34;TSPO suppression improved behavioral alteration with systemic inflammation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is how we began to understand a critical role of TSPO in SAE. Based on this finding, monitoring TSPO activity, as well as the progress of sepsis and its sequelae in the animal model, would deepen our understanding of the underlying molecular mechanism of SAE.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New study on a novel microscope for 3D visualization of the brain structure with deep ultraviolet light</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20201029/</link>
+      <pubDate>Wed, 28 Oct 2020 08:51:31 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20201029/</guid>
+      <description>&lt;p&gt;Deciphering the connectivity between brain regions is critical in understanding how the brain works. Three dimensional visualization of such networks of the neurons has been hampered by poor penetration of visible light into the large brain tissue.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;duv.png&#34; alt=&#34;Deep UV light&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To address this, our group combined the serial sectioning of the tissue block to expose new surface of the brain with scanning by light. Collected image would be used for three dimensional reconstruction of the brain structure later in the offiline analysis.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.10.27.342345v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep ultraviolet light based wide-field fluorescence microscope for brain imaging, preprint available in bioRxiv (doi: https://doi.org/10.1101/2020.10.27.342345)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since visible light excites the fluorescent label out of focus, which makes the image blurred, we applied light to a limited optical plane at the surface of the exposed tissue block. Deep ultraviolet (DUV) light loses its power quickly after it reaches at the plane within 10-20 µm from the surface so that the image consists of the emitted light coming from the plane in focus.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;schematics.png&#34; alt=&#34;Workflow in DUV imaging&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is combined with motorized optics which enables scanning wide field of view to image the large brain tissue for three dimensional reconstruction.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dii.png&#34; alt=&#34;Imaging neural pathways in the animals brain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We applied this technique to the brain samples of small animals expressing green fluorescent protein and lipophilic dye in the neural pathways of mice and zebrafish. We are currently screening the fluorescent proteins and dyes compatible with this technology to widen the area for further application.&lt;/p&gt;
+&lt;p&gt;Interestingly, DUV imaging is quite cost-effective according to the simplicity of the optical setup. This is advantageous for the high throughput analyses with multple setups in the lab over the pre-existing expensive solution such as light-sheet and two-photon microscopies.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychiatric sequelae of intensive care: a role of neuroinflammation</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200926/</link>
+      <pubDate>Thu, 24 Sep 2020 13:16:46 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200926/</guid>
+      <description>&lt;p&gt;Physical stress such as infection and trauma, often causes a variety of outcome. COVID-19 outbreak in 2020 would likely result in an increase in intensive care survivors who would frequently develop anxiety, depression and PTSD as a part of post intensive care syndrome (PICS). Survival rates for critically ill patients are increasing as medical science advances, but with it PICS in survivors is becoming a major medical problem.&lt;/p&gt;
+&lt;p&gt;Convergent lines of evidence recently supported that physical and emotional stress induced inflammatory responses in the central nervous system. Microglia play a pivotal role in induction and expansion of the neuroinflammatory reactions. Activated microglia are known to secrete the signaling molecules such as reactive oxygen species (ROS) and cytokines, which mediates the interplay between neurons and glia.&lt;/p&gt;
+&lt;p&gt;As a collaborative study with Department of Emergency and Critical Care Medicine in Hiroshima University, We have just published a review paper which discusses recent advances in the studies on the role of translocator protein 18 kDa (TSPO) in microglial activation and in stressor-related disorders associated with anxiety and depression.&lt;/p&gt;
+&lt;p&gt;K Kikutani, H Giga, K Hosokawa, N Shime, H Aizawa, &lt;strong&gt;Microglial translocator protein and stressor-related disorder.&lt;/strong&gt; Neurochem Int (2020), &lt;em&gt;in press&lt;/em&gt;
+
+&lt;a href=&#34;https://doi.org/10.1016/j.neuint.2020.104855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Link]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tspo.png&#34; alt=&#34;neuroinflammation and TSPO&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Recent studies collectively support the view that upregulation of TSPO in microglia in response to the various physical and mental stress underlies pathophysiology of psychiatric symptoms. Future study may enable us to make use of TSPO as a probe to monitor the chronic time course of the stressor-related disorders in the survivors from the intensitve care.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication on a novel gene causing depressive-like behaviors</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200918/</link>
+      <pubDate>Fri, 18 Sep 2020 16:53:13 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200918/</guid>
+      <description>&lt;p&gt;We have just published a paper which identified a novel gene Pcsk5 acting on immune reaction in the mouse brain. Chronic stress activated this gene, which led to the subsequent activation of the other genes MMPs causing remodeling of the extracellular matrix. Since immune cell such as monocyte and microglia started to be activated and move more actively upon remodeling of extracellular matrix, Neurons seems to produce Pcsk5 seems to induce neuroinflammation in response to the chronic stress.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41386-020-00843-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Neuropsychopharmacology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.hiroshima-u.ac.jp/system/files/149927/20200916_pr01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release from Hiroshima University&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amed.go.jp/news/release_20200917-01.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release from AMED&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Interestingly, this protein turned out to be localize to the small area in the brain called habenula. This region attracts a surge of interest according to its role in regulation of central monoaminergic system. Monoamines such as dopamine and serotonin are known to be a basis of pathophysiology of depression and paharmacological action of antidepressant available currently. Since this area is excited when the animal perceives disappointment and punishment, it is proposed that the habenula may act as a negative source of reinforcement signal in the brain to control our behavioral strategy for survival.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Pcsk5.png&#34; alt=&#34;Chronic hyper-activation of the habenula via PCSK5-MMP ignaling pathway&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Taking the current results into consideration, we may begin to understand how the transient activation of the habenula via punishment or disappointment can be chronic via changes in extracellular environment.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication on dopamine transmission in stress-coping behavior</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200829/</link>
+      <pubDate>Fri, 28 Aug 2020 17:47:48 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200829/</guid>
+      <description>&lt;p&gt;We recently published a paper on a role of neurotransmitter dopamine in stress-coping behavior in Journal of Neuroscience.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.jneurosci.org/content/early/2020/08/26/JNEUROSCI.0444-20.2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Journal of Neurosience&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When the animals encounter the environmental threat as stressor, we can think of two distinct strategies to cope with it. One is to try to overcome it by exploring actively and be against it, the other is to avoid and refrain from being close to it passively. Active and passive coping of the stress would be the basis to determine the behavioral strategies upon exposure to the stressor. Since maladaptation to the stress predispose the psychiatric disorders such as depression and anxiety, understanding the molecular mechanism underlying it is indispensable for the development of therapeutic intervention for them.&lt;/p&gt;
+&lt;p&gt;To address this, we focused on neurotransmitter dopamine which plays pivotal roles in decision making and reinforcement of the behaviors. We developed a fine carbon fiber electrode to scan the brain region called nucleus accumbens to examine how the dopamine release change when the mice changed stress-coping behaviors under the inescapable stress such as tail suspension. We found that reduction of dopamine release in this area precede the initation of escape behavior, implicating the dopaminergic transmission to the decision making under the stress.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fscv.png&#34; alt=&#34;Sub-milli second measurement of extracellular dopamine by fast scanning cyclic voltammetry&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To check the causal effect of reduced dopamine release on mouse behaviors, we took two indepdent strategies. Optogenetic inhibitoin of dopaminergic fibers in the nucleus accumbens allowed inhibition of dopamine release at any time you want thru illumination of blue light.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;optogenetics.png&#34; alt=&#34;Optogenetic manupulatin of the dopaminergic pathway&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Another tool we used this time is CRISPR/Cas9 which deletes the receptors for dopaminergic transmission efficiently in the mouse brain by way of viral vector.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;crispr.png&#34; alt=&#34;In vivo genome editing of dopaminergic receptors by CRISPR/Cas9 technology &#34;&gt;&lt;/p&gt;
+&lt;p&gt;Both experiments proved that impaired dopaminergic transmission caused induction of escape behavior during tail suspension stress. Through this study, we are pleased to establish three important tools which must be useful for futre study: fast scanning cyclic voltammetry, optogenetics and CRISPR/Cas9.&lt;/p&gt;
+&lt;p&gt;I hope to discuss these new tools in the post comming soon.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication on spreading depression implicated in migraine and stroke</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200626/</link>
+      <pubDate>Fri, 26 Jun 2020 12:40:12 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200626/</guid>
+      <description>&lt;p&gt;Our group published a paper in the journal GLIA on a role of glutamate in spreading depression, a pre-clinical model for the aura preceding the migraine.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/glia.23874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in GLIA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.hiroshima-u.ac.jp/news/58665&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release from the Hiroshima University&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spreading depression is a propagating wave of neuronal and glial excitation under the pathological conditions. Studies suggested that it is found in the neurological disorders such as migraine and ischemic stroke. In particular, one third of migrainers are known to show neurological deficits (e.g., visual defect) in advance of the headache. Despite its clinical significance, molecular mechanism underlying the spreading depression reamins elusive.&lt;/p&gt;
+&lt;p&gt;Glutamate, an amino acid, acts as neurotransmitter in the brain. Upon binding of glutamate to the receptors, it modulates the flow of channel across the cell membrane of neurons to let it excited. This is how the glutamte facilitates the communication between neurons connecting with axonal fiber. If it acts too much with excessively high level in concentration in the extracellular space, it could be pathological and lead to the disorganized neural network activity and cell death.&lt;/p&gt;
+&lt;p&gt;We hypothesize that glutamate metabolism underlies the spreading depression. To address this, we examined the multiple knockout mice lacking any of the glutamate transporters, key modulators of the extracellular concentration of glutamate. Electrophysiological analｓysis revealed that mice lacking one of the glutamate transporters GLT-1 exhibited highest susceptibility to the spreading depression among mutant mice.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ephys.png&#34; alt=&#34;Electrophysiological analysis in the mutants&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To address a role of GLT-1 in glutamate metabolism, we developed glutamate biosensor which measure the glutamate concentration 4 times in a second. Mice lacking GLT-1 exhibited accumulation of extracellular glutamate more quickly than control, suggesting that GLT-1 plays a critical role in clearing glutamate from the extracellular space to maintain the ambient condition there.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;biosensor.png&#34; alt=&#34;Measurement of extracellular glutamate using biosensor&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Collectively, these results indicate a drug enhancing GLT-1 function might be a candidate to treat the migrain by reducing the susceptibility to spreading depression. We hope to screen such drug using model animals soon.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International collaboration</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200613/</link>
+      <pubDate>Sat, 13 Jun 2020 06:04:31 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200613/</guid>
+      <description>&lt;p&gt;We welcome the international students and collaboration to facilitate our progress in neuroscience. With the international background in Hiroshima, our lab encourages the students and researcher to develop their careers by scholarship and grants. Indeed, our lab members from a variety of countries all over the world weekly hold the meeting for the progress report and journal club. We also discuss the textbook to help the international students to understand the basics in neuroscience, optics and data science periodically.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;member.png&#34; alt=&#34;Lab members from the countries all over the world&#34;&gt;&lt;/p&gt;
+&lt;p&gt;On the other hand, our research is enpowered by collaborations with researcher all over the world. For example, we have invited the researcher from US, UK and China to discuss and perform experiments together to develop new technologies in neuroscience.&lt;/p&gt;
+&lt;p&gt;As an international and research university, Hiroshima university helps the students and researcher who do not speak Japanese to learn Japanese and Japanese culture through specific classes and socials (international luncheon parties).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://aizawalab.github.io/neurobio/en/#contact&#34;&gt;Contact us&lt;/a&gt; if you are interested in joining us!&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scholarship supporting the graduate course in Hiroshima</title>
+      <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200601/</link>
+      <pubDate>Mon, 01 Jun 2020 22:18:03 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200601/</guid>
+      <description>&lt;p&gt;Our lab currently work with six graduate students in total. Scholarship and support by the university primarily allow them to concentrate on their own project for the theses. We were pleased to see the students win the scholarship based on their achievement to develop the carreer in this field.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New publication on a role of human habenula in learning</title>
@@ -48,9 +191,9 @@
       <link>https://aizawalab.github.io/neurobio/ja/post.bk/20200429/</link>
       <pubDate>Wed, 29 Apr 2020 21:51:20 +0900</pubDate>
       <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200429/</guid>
-      <description>&lt;p&gt;We started to jold weekly lab meeting for progress report and journal club online over zoom. This is because we hesitate to make members gathered at the same room to have lunch meeting. I found the online meeting still work fine and us be familiar with it after several trials.
-Photo by Campaign Creators on Unsplash.
-#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+      <description>&lt;p&gt;We started to hold weekly lab meeting for the progress report and journal club online over zoom. This is because we tried not to make members gathered at the same room to have lunch meeting. I found the online meeting still worked fine and we are getting familiar with it after several trials.
+Photo by Campaign Creators on Unsplash.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
 </description>
     </item>
     
@@ -90,433 +233,6 @@ Facebook: &lt;a href=&#34;http://www.facebook.com/NeurobiolHiroshima&#34;&gt;htt
       <pubDate>Fri, 17 Apr 2020 14:45:28 +0900</pubDate>
       <guid>https://aizawalab.github.io/neurobio/ja/post.bk/20200417/</guid>
       <description>&lt;p&gt;We welcome new faculty from Germany. Dr. Handa and I worked previously in RIKEN Brain Science Institute in a collaborative way. While I moved to the new lab in Tokyo Medical and Dental University, he accomplished his work on a role of the rat prefrontal cortex in decision making as published in Cerebral Cortex (2017). Now that he elaborated his physiological technique using two photon microscopy, we look forward to collaborate with him again to make significant progress in Hiroshima.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Writing technical content in Academic</title>
-      <link>https://aizawalab.github.io/neurobio/ja/post.bk/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \&lt;br&gt;
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
-&lt;p&gt;Academic supports a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;p&gt;Academic enables you to use a wide range of 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
-{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
-{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://aizawalab.github.io/neurobio/ja/post.bk/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://aizawalab.github.io/neurobio/ja/post.bk/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://aizawalab.github.io/neurobio/ja/post.bk/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 
-&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: 
-&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ 
-&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 
-&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ 
-&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 
-&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
-&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
-&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
-&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present 
-&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     

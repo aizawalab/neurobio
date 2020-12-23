@@ -3,7 +3,7 @@
 
 title: "Dogwood blooms"
 subtitle: ""
-summary: ""
+summary: "Welcoming newcommers in Kasumi campus of Hiroshima University."
 authors: [admin]
 tags: []
 categories: []

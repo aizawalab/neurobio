@@ -4,7 +4,7 @@
 title: "New publication on a novel gene causing depressive-like behaviors"
 subtitle: ""
 summary: "We found that Pcsk5 was responsible for neuroinflammation deep inside the brain leading to depressive-like behaviors in mice."
-authors: [admin]
+authors: [admin, ito, nozaki]
 tags: []
 categories: []
 date: 2020-09-18T16:53:13+09:00

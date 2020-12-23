@@ -5,12 +5,32 @@
     <link>https://aizawalab.github.io/neurobio/en/authors/deepa/</link>
       <atom:link href="https://aizawalab.github.io/neurobio/en/authors/deepa/index.xml" rel="self" type="application/rss+xml" />
     <description>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Wed, 28 Oct 2020 08:51:31 +0900</lastBuildDate>
     <image>
       <url>https://aizawalab.github.io/neurobio/en/authors/deepa/avatar_hu5d707d0340a8f81823dfacc9334673d8_36864_270x270_fill_lanczos_center_2.png</url>
       <title>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
       <link>https://aizawalab.github.io/neurobio/en/authors/deepa/</link>
     </image>
+    
+    <item>
+      <title>New study on a novel microscope for 3D visualization of the brain structure with deep ultraviolet light</title>
+      <link>https://aizawalab.github.io/neurobio/en/post/20201029/</link>
+      <pubDate>Wed, 28 Oct 2020 08:51:31 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20201029/</guid>
+      <description>&lt;p&gt;Deciphering the connectivity between brain regions is critical in understanding how the brain works. Three dimensional visualization of such networks of the neurons has been hampered by poor penetration of visible light into the large brain tissue.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;duv.png&#34; alt=&#34;Deep UV light&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To address this, our group combined the serial sectioning of the tissue block to expose new surface of the brain with scanning by light. Collected image would be used for three dimensional reconstruction of the brain structure later in the offiline analysis.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.10.27.342345v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep ultraviolet light based wide-field fluorescence microscope for brain imaging, preprint available in bioRxiv (doi: https://doi.org/10.1101/2020.10.27.342345)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since visible light excites the fluorescent label out of focus, which makes the image blurred, we applied light to a limited optical plane at the surface of the exposed tissue block. Deep ultraviolet (DUV) light loses its power quickly after it reaches at the plane within 10-20 µm from the surface so that the image consists of the emitted light coming from the plane in focus.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;schematics.png&#34; alt=&#34;Workflow in DUV imaging&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is combined with motorized optics which enables scanning wide field of view to image the large brain tissue for three dimensional reconstruction.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dii.png&#34; alt=&#34;Imaging neural pathways in the animals brain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We applied this technique to the brain samples of small animals expressing green fluorescent protein and lipophilic dye in the neural pathways of mice and zebrafish. We are currently screening the fluorescent proteins and dyes compatible with this technology to widen the area for further application.&lt;/p&gt;
+&lt;p&gt;Interestingly, DUV imaging is quite cost-effective according to the simplicity of the optical setup. This is advantageous for the high throughput analyses with multple setups in the lab over the pre-existing expensive solution such as light-sheet and two-photon microscopies.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

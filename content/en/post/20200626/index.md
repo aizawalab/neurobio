@@ -4,7 +4,7 @@
 title: "New publication on spreading depression implicated in migraine and stroke"
 subtitle: ""
 summary: "We recently publish a paper on a role of glutamate metabolism in modulation of spreading depression which has been reported in the brain with neurological disorders such as migraine."
-authors: [admin]
+authors: [admin, terai]
 tags: []
 categories: []
 date: 2020-06-26T12:40:12+09:00

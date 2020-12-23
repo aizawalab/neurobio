@@ -4,7 +4,7 @@
 title: "Scholarship supporting the graduate course in Hiroshima"
 subtitle: ""
 summary: "A student in our lab, Meina got scholarship to support her course in Hiroshima."
-authors: [admin]
+authors: [admin, zhu]
 tags: []
 categories: []
 date: 2020-06-01T22:18:03+09:00

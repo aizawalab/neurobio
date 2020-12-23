@@ -4,7 +4,7 @@
 title: "New study on a novel microscope for 3D visualization of the brain structure with deep ultraviolet light"
 subtitle: ""
 summary: "We developed a new tool to analyze the structure of the brain using sectioning tomography technique."
-authors: [admin]
+authors: [admin, deepa, zhu]
 tags: []
 categories: []
 date: 2020-10-28T08:51:31+09:00

@@ -1,7 +1,7 @@
 ---
 title: "Gene cassette knock-in in mammalian cells and zygotes by enhanced MMEJ"
 date: 2016-11-01
-publishDate: 2020-06-02T13:15:23.536136Z
+publishDate: 2020-12-23T08:07:22.100114Z
 authors: ["T. Aida", "S. Nakade", "T. Sakuma", "Y. Izu", "A. Oishi", "K. Mochida", "H. Ishikubo", "T. Usami", "H. Aizawa", "T. Yamamoto", "K. Tanaka"]
 publication_types: ["2"]
 abstract: ""

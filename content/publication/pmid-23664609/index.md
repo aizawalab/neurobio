@@ -1,7 +1,7 @@
 ---
 title: "Fear and anxiety regulation by conserved affective circuits"
 date: 2013-05-01
-publishDate: 2020-06-02T13:15:23.549898Z
+publishDate: 2020-12-23T08:07:22.110012Z
 authors: ["H. Okamoto", "H. Aizawa"]
 publication_types: ["2"]
 abstract: ""

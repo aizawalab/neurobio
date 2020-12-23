@@ -4,7 +4,7 @@
 title: "New publication on dopamine transmission in stress-coping behavior"
 subtitle: ""
 summary: "Novel technology combining CRISPR/Cas9, optogenetics and voltammetry revealed a role of dopamine in depressive-like behaviors."
-authors: [admin]
+authors: [admin, cui, ito, zhu, nakano]
 tags: []
 categories: []
 date: 2020-08-28T17:47:48+09:00

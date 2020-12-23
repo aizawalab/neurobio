@@ -5,12 +5,33 @@
     <link>https://aizawalab.github.io/neurobio/en/authors/terai/</link>
       <atom:link href="https://aizawalab.github.io/neurobio/en/authors/terai/index.xml" rel="self" type="application/rss+xml" />
     <description>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Fri, 26 Jun 2020 12:40:12 +0900</lastBuildDate>
     <image>
       <url>https://aizawalab.github.io/neurobio/en/authors/terai/avatar_hu64687c50c50b13f1bcb1bc5f1675a3f1_74349_270x270_fill_lanczos_center_2.png</url>
       <title>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
       <link>https://aizawalab.github.io/neurobio/en/authors/terai/</link>
     </image>
+    
+    <item>
+      <title>New publication on spreading depression implicated in migraine and stroke</title>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200626/</link>
+      <pubDate>Fri, 26 Jun 2020 12:40:12 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200626/</guid>
+      <description>&lt;p&gt;Our group published a paper in the journal GLIA on a role of glutamate in spreading depression, a pre-clinical model for the aura preceding the migraine.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/glia.23874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in GLIA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.hiroshima-u.ac.jp/news/58665&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release from the Hiroshima University&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spreading depression is a propagating wave of neuronal and glial excitation under the pathological conditions. Studies suggested that it is found in the neurological disorders such as migraine and ischemic stroke. In particular, one third of migrainers are known to show neurological deficits (e.g., visual defect) in advance of the headache. Despite its clinical significance, molecular mechanism underlying the spreading depression reamins elusive.&lt;/p&gt;
+&lt;p&gt;Glutamate, an amino acid, acts as neurotransmitter in the brain. Upon binding of glutamate to the receptors, it modulates the flow of channel across the cell membrane of neurons to let it excited. This is how the glutamte facilitates the communication between neurons connecting with axonal fiber. If it acts too much with excessively high level in concentration in the extracellular space, it could be pathological and lead to the disorganized neural network activity and cell death.&lt;/p&gt;
+&lt;p&gt;We hypothesize that glutamate metabolism underlies the spreading depression. To address this, we examined the multiple knockout mice lacking any of the glutamate transporters, key modulators of the extracellular concentration of glutamate. Electrophysiological analｓysis revealed that mice lacking one of the glutamate transporters GLT-1 exhibited highest susceptibility to the spreading depression among mutant mice.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ephys.png&#34; alt=&#34;Electrophysiological analysis in the mutants&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To address a role of GLT-1 in glutamate metabolism, we developed glutamate biosensor which measure the glutamate concentration 4 times in a second. Mice lacking GLT-1 exhibited accumulation of extracellular glutamate more quickly than control, suggesting that GLT-1 plays a critical role in clearing glutamate from the extracellular space to maintain the ambient condition there.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;biosensor.png&#34; alt=&#34;Measurement of extracellular glutamate using biosensor&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Collectively, these results indicate a drug enhancing GLT-1 function might be a candidate to treat the migrain by reducing the susceptibility to spreading depression. We hope to screen such drug using model animals soon.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -4,7 +4,7 @@
 title: "New faculty from Germany"
 subtitle: ""
 summary: ""
-authors: [admin]
+authors: [admin, handa]
 tags: []
 categories: []
 date: 2020-04-17T14:45:28+09:00

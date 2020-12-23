@@ -5,12 +5,52 @@
     <link>https://aizawalab.github.io/neurobio/en/authors/ito/</link>
       <atom:link href="https://aizawalab.github.io/neurobio/en/authors/ito/index.xml" rel="self" type="application/rss+xml" />
     <description>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Neurobiology lab in Hiroshima University</copyright><lastBuildDate>Fri, 18 Sep 2020 16:53:13 +0900</lastBuildDate>
     <image>
       <url>https://aizawalab.github.io/neurobio/en/authors/ito/avatar_huf9edf9865e848e54d9a072a61f2e7a1b_77006_270x270_fill_lanczos_center_2.png</url>
       <title>AIZAWA lab in Hiroshima exploring the brain machinery and its disorders</title>
       <link>https://aizawalab.github.io/neurobio/en/authors/ito/</link>
     </image>
+    
+    <item>
+      <title>New publication on a novel gene causing depressive-like behaviors</title>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200918/</link>
+      <pubDate>Fri, 18 Sep 2020 16:53:13 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200918/</guid>
+      <description>&lt;p&gt;We have just published a paper which identified a novel gene Pcsk5 acting on immune reaction in the mouse brain. Chronic stress activated this gene, which led to the subsequent activation of the other genes MMPs causing remodeling of the extracellular matrix. Since immune cell such as monocyte and microglia started to be activated and move more actively upon remodeling of extracellular matrix, Neurons seems to produce Pcsk5 seems to induce neuroinflammation in response to the chronic stress.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41386-020-00843-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Neuropsychopharmacology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.hiroshima-u.ac.jp/system/files/149927/20200916_pr01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release from Hiroshima University&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amed.go.jp/news/release_20200917-01.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release from AMED&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Interestingly, this protein turned out to be localize to the small area in the brain called habenula. This region attracts a surge of interest according to its role in regulation of central monoaminergic system. Monoamines such as dopamine and serotonin are known to be a basis of pathophysiology of depression and paharmacological action of antidepressant available currently. Since this area is excited when the animal perceives disappointment and punishment, it is proposed that the habenula may act as a negative source of reinforcement signal in the brain to control our behavioral strategy for survival.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Pcsk5.png&#34; alt=&#34;Chronic hyper-activation of the habenula via PCSK5-MMP ignaling pathway&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Taking the current results into consideration, we may begin to understand how the transient activation of the habenula via punishment or disappointment can be chronic via changes in extracellular environment.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication on dopamine transmission in stress-coping behavior</title>
+      <link>https://aizawalab.github.io/neurobio/en/post/20200829/</link>
+      <pubDate>Fri, 28 Aug 2020 17:47:48 +0900</pubDate>
+      <guid>https://aizawalab.github.io/neurobio/en/post/20200829/</guid>
+      <description>&lt;p&gt;We recently published a paper on a role of neurotransmitter dopamine in stress-coping behavior in Journal of Neuroscience.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.jneurosci.org/content/early/2020/08/26/JNEUROSCI.0444-20.2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our publication in the Journal of Neurosience&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When the animals encounter the environmental threat as stressor, we can think of two distinct strategies to cope with it. One is to try to overcome it by exploring actively and be against it, the other is to avoid and refrain from being close to it passively. Active and passive coping of the stress would be the basis to determine the behavioral strategies upon exposure to the stressor. Since maladaptation to the stress predispose the psychiatric disorders such as depression and anxiety, understanding the molecular mechanism underlying it is indispensable for the development of therapeutic intervention for them.&lt;/p&gt;
+&lt;p&gt;To address this, we focused on neurotransmitter dopamine which plays pivotal roles in decision making and reinforcement of the behaviors. We developed a fine carbon fiber electrode to scan the brain region called nucleus accumbens to examine how the dopamine release change when the mice changed stress-coping behaviors under the inescapable stress such as tail suspension. We found that reduction of dopamine release in this area precede the initation of escape behavior, implicating the dopaminergic transmission to the decision making under the stress.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fscv.png&#34; alt=&#34;Sub-milli second measurement of extracellular dopamine by fast scanning cyclic voltammetry&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To check the causal effect of reduced dopamine release on mouse behaviors, we took two indepdent strategies. Optogenetic inhibitoin of dopaminergic fibers in the nucleus accumbens allowed inhibition of dopamine release at any time you want thru illumination of blue light.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;optogenetics.png&#34; alt=&#34;Optogenetic manupulatin of the dopaminergic pathway&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Another tool we used this time is CRISPR/Cas9 which deletes the receptors for dopaminergic transmission efficiently in the mouse brain by way of viral vector.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;crispr.png&#34; alt=&#34;In vivo genome editing of dopaminergic receptors by CRISPR/Cas9 technology &#34;&gt;&lt;/p&gt;
+&lt;p&gt;Both experiments proved that impaired dopaminergic transmission caused induction of escape behavior during tail suspension stress. Through this study, we are pleased to establish three important tools which must be useful for futre study: fast scanning cyclic voltammetry, optogenetics and CRISPR/Cas9.&lt;/p&gt;
+&lt;p&gt;I hope to discuss these new tools in the post comming soon.&lt;/p&gt;
+&lt;p&gt;#Neurobiology #Hiroshima #Brain #神経 #広島 #脳&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -4,7 +4,7 @@
 title: "International collaboration"
 subtitle: "We welcome the grad students all over the world in Hiroshima."
 summary: "With the international background in Hiroshima University, our lab encourages the students and researcher to develop their careers by scholarship and grants. "
-authors: [admin]
+authors: [admin, zhu]
 tags: []
 categories: []
 date: 2020-06-13T06:04:31+09:00

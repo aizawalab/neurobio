@@ -27,6 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-We started to jold weekly lab meeting for progress report and journal club online over zoom. This is because we hesitate to make members gathered at the same room to have lunch meeting. I found the online meeting still work fine and us be familiar with it after several trials.
+We started to hold weekly lab meeting for the progress report and journal club online over zoom. This is because we tried not to make members gathered at the same room to have lunch meeting. I found the online meeting still worked fine and we are getting familiar with it after several trials.
 Photo by Campaign Creators on Unsplash.
+
 #Neurobiology #Hiroshima #Brain #神経 #広島 #脳

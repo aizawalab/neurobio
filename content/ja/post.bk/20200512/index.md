@@ -3,8 +3,8 @@
 
 title: "New publication on a role of human habenula in learning"
 subtitle: ""
-summary: ""
-authors: []
+summary: "Functional MRI study in Hiroshima revealed a novel role of the small brain region called habenula in learning in human."
+authors: [admin]
 tags: []
 categories: []
 date: 2020-05-12T16:22:34+09:00

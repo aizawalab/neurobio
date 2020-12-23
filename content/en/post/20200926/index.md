@@ -4,7 +4,7 @@
 title: "Psychiatric sequelae of intensive care: a role of neuroinflammation"
 subtitle: ""
 summary: "Outbreak of COVID-19 reminds us of mental symptoms which the critical care survivors might suffer from."
-authors: [admin]
+authors: [admin, kikutani, giga]
 tags: []
 categories: []
 date: 2020-09-24T13:16:46+09:00
