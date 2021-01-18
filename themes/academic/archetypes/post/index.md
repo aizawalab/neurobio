@@ -30,4 +30,4 @@ projects: []
 
 
 
-#Neurobiology #Hiroshima #Brain #神経 #広島 #脳
+ #広島大学 #脳科学　#神経科学　#Hiroshima #University #Mental #Psychiatry #Neuroscience #Brain # Neuroscience 
